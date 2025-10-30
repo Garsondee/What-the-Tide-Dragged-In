@@ -6,13 +6,23 @@
 
 ## Read-Aloud: Opening
 
-Up close, Wally's shack is even more pathetic than it looked from a distance. The walls lean at impossible angles, held together by hope, duct tape, and what might be sheer theatrical stubbornness. Faded posters peel from the exterior—"WALLY'S WANDERING WONDERS! MAGIC! MYSTERY! MIRTH!"—alongside crude illustrations of rabbits in hats and doves in flight. The whole structure smells of mildew, sawdust, and something chemical and acrid, like the air after fireworks.
+Up close, Wally's shack is even more pathetic than it looked from a distance. The walls lean at impossible angles, held together by hope, duct tape, and what might be sheer theatrical stubbornness. Faded posters peel from the exterior—"WALLY'S WANDERING WONDERS! MAGIC! MYSTERY! MIRTH!"—alongside crude illustrations of rabbits in hats and doves in flight.
 
-The music is deafening now, so loud it vibrates in your bones. Through the gaps in the walls, you can see him.
+**From a Cat's Perspective:**
 
-Wally is... not what you expected. He's a small human, rail-thin, with wild hair that might have once been styled but now sticks up in greasy spikes. His coat is threadbare velvet, once deep purple but now faded to the color of old bruises, and it's decorated with tarnished brass buttons and moth-eaten gold trim. He's standing in the center of the shack, eyes closed in what looks like ecstasy, swaying as he plays. The flute in his hands gleams with an unnatural silver light, and the notes that pour from it seem to warp the very air, making it shimmer and twist like heat rising from summer pavement.
+The whole structure smells of mildew, sawdust, and something chemical and acrid, like the air after fireworks. Your nose burns from the assault of scents: old sweat, rotting fabric, metal polish, gunpowder residue from stage tricks, and underneath it all, the sharp ozone smell of active magic. It's nauseating.
 
-The interior is chaos incarnate. Boxes and trunks are stacked haphazardly against every wall, labeled with fading magic marker: "TRICK DOVES (DEAD)", "SPARE WANDS", "FLASH PAPER - FLAMMABLE". A moth-eaten rabbit pelt hangs from a nail. A cracked crystal ball sits forgotten in one corner. Everywhere, there's the detritus of a failed career—bent playing cards, tangled silk scarves, a saw marked "FOR LADY IN BOX ROUTINE" that's crusted with rust.
+The music is *deafening* now. Not just loud—it's *painful*. The flute hits frequencies that cats aren't meant to hear, piercing notes that make your skull feel like it's splitting. Your ears flatten against your head reflexively, but it doesn't help. The sound penetrates everything. It vibrates in your bones, your teeth, your whiskers. You can feel the magical notes crawling across your skin like invisible insects. Your inner ear spins, making the world tilt sickeningly.
+
+Through the gaps in the walls, you can see him.
+
+Wally is... not what you expected. He's a small human—for a human—rail-thin, with wild hair that might have once been styled but now sticks up in greasy spikes. But even a "small" human is *massive* compared to you. He could crush you with one step, grab you with one hand. His coat is threadbare velvet, once deep purple but now faded to the color of old bruises, and it's decorated with tarnished brass buttons and moth-eaten gold trim that clink and jangle with his movements. The sound would normally mask your approach, but the flute drowns out everything.
+
+He's standing in the center of the shack, eyes closed in what looks like ecstasy, swaying as he plays. The flute in his hands gleams with an unnatural silver light that *hurts to look at*—your eyes water, your pupils contract and dilate involuntarily. The notes that pour from it seem to warp the very air, making it shimmer and twist like heat rising from summer pavement. You can *see* the sound waves, distorting reality.
+
+The interior is chaos incarnate. Boxes and trunks are stacked haphazardly against every wall, creating a maze of human-sized obstacles. Everything is too big, too unstable. One wrong move and the whole structure could come down on you. The floor is uneven, slanted, covered in debris that shifts under your paws. Broken glass glints in corners—dangerous. 
+
+Boxes labeled with fading magic marker: "TRICK DOVES (DEAD)", "SPARE WANDS", "FLASH PAPER - FLAMMABLE". A moth-eaten rabbit pelt hangs from a nail—you can smell the death on it, old and musty. A cracked crystal ball sits forgotten in one corner, covered in dust that tickles your nose. Everywhere, there's the detritus of a failed career—bent playing cards, tangled silk scarves, a saw marked "FOR LADY IN BOX ROUTINE" that's crusted with rust (and smells faintly of old blood).
 
 But it's the flute that holds your attention. Silver, ornate, covered in etchings that hurt to look at. When Wally hits certain notes, those etchings *glow*, pulsing in time with the music. This isn't a prop. This is the real thing, genuine magic in the hands of someone who has absolutely no idea how to control it—or doesn't care.
 

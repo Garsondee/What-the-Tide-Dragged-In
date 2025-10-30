@@ -6,15 +6,25 @@
 
 ## Read-Aloud: Opening
 
-The path to the Darkwoods narrows as you leave the familiar streets and alleyways of Silverfield behind. The transition is abrupt—one moment you're padding along cracked pavement under streetlamps, the next you're stepping onto soft earth beneath a canopy so thick it swallows the twilight whole. The air changes immediately: cooler, heavier, laced with the sharp green scent of ancient pines and something else—something that makes your whiskers tingle and your hackles want to rise. Magic. Old magic, woven into the roots and boughs.
+The path to the Darkwoods narrows as you leave the familiar streets and alleyways of Silverfield behind. The transition is abrupt—one moment you're padding along cracked pavement under streetlamps, the next you're stepping onto soft earth beneath a canopy so thick it swallows the twilight whole.
 
-The trees here are giants, their trunks wider than any human car, their branches creating layers of shadow upon shadow. Moss hangs in thick curtains from the limbs, and the undergrowth is a tangle of ferns and twisted roots that seem to shift subtly when you're not looking directly at them. The forest floor is carpeted in pine needles that muffle your pawsteps, but every snap of twig or rustle of leaf echoes strangely, as if the woods themselves are listening.
+**From a Cat's Perspective:**
+
+The air changes immediately: *cooler*, much cooler. Your fur fluffs involuntarily against the sudden chill. You can feel the temperature drop through your paw pads as they leave sun-warmed concrete for cold forest loam. The earth is soft, damp, giving beneath your weight in an unsettling way—so different from the solid certainty of pavement. Pine needles prick between your toe beans.
+
+The *scent* is overwhelming—sharp green resin from ancient pines, wet moss, decomposing leaves, and underneath it all, layer upon layer of *lynx*. Territory markers everywhere, some fresh, some old, all screaming the same message: "THIS IS OURS. YOU DON'T BELONG." Your instincts scream at you to turn back, that you're in another predator's domain, that you're *prey-sized* here.
+
+And there's something else—something that makes your whiskers tingle and your hackles want to rise. Magic. Old magic, woven into the roots and boughs. You can feel it as a low vibration in your bones, like purring but wrong, alien. It makes the fur along your spine stand up, makes your claws extend involuntarily.
+
+The trees here are giants, towering far above, making you feel impossibly small. Their trunks are wider than any human car. Moss hangs in thick curtains from the limbs, swaying slightly in a breeze you can't feel at ground level. The undergrowth is a tangle of ferns and twisted roots that seem to shift subtly when you're not looking directly at them—an optical illusion, surely, but your hunter's instincts keep tracking the movement anyway.
+
+The forest floor is carpeted in pine needles that muffle your pawsteps—both blessing and curse. You move silently, but so does everything else. Every snap of twig or rustle of leaf echoes strangely, as if the woods themselves are listening. The usual forest sounds (birds, insects, small prey animals) are *wrong*—too quiet, too careful, as if everything here knows a larger predator is watching.
 
 Sappho pads beside you, her usual bravado tempered by unease. Her ears swivel constantly, tracking sounds you can't quite hear. "The Slynx don't take kindly to trespassers," she murmurs, voice low. "Especially not dogs. These woods have been their territory for generations, and they've kept it that way with wards and warnings."
 
 Ahead, the path—if it can even be called that—leads deeper into darkness. But before you can take more than a few steps, you hear it: a low, resonant growl that seems to come from everywhere and nowhere at once. Then, movement.
 
-A massive lynx emerges from between the trees, stepping into what little light filters through the canopy. This is Big Lynx, elder of the Slynx clan, and their size and bearing make it clear why they hold that title. Their coat is thick and silvered with age, tufted ears standing tall, eyes like pale amber coins that fix on your group with an intensity that feels like physical weight. They move with deliberate slowness, each pawstep placed with absolute certainty, blocking the path forward.
+A massive lynx emerges from between the trees, stepping into what little light filters through the canopy. This is Big Lynx, elder of the Slynx clan, and their size and bearing make it clear why they hold that title. They're *enormous*—easily three times your size, maybe four. Their paws are as big as your head. Their coat is thick and silvered with age, tufted ears standing tall like antenna, eyes like pale amber coins that fix on your group with an intensity that feels like physical weight. You can smell them from here: wild musk, pine sap, old blood, and underneath it, a scent of *age*—of a creature that has lived many seasons and survived them all. They move with deliberate slowness, each pawstep placed with absolute certainty, blocking the path forward. The ground vibrates slightly when their paws land.
 
 "Cats of Silverfield," Big Lynx's voice is a low rumble, formal and edged with suspicion. "And... a dog." Their gaze locks onto Sappho, who lowers her head respectfully but doesn't break eye contact. "You stand at the threshold of the Darkwoods. This is Slynx land, protected by ancient compact and older magic. State your business, quickly and truthfully. We have little patience for outsiders, and none at all for those who bring the stink of human-touched shores and sea-spray into our sacred groves."
 

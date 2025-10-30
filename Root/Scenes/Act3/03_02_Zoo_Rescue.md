@@ -2,11 +2,33 @@
 
 **Central Question:** Can the players rescue Jewels while also preventing the shapeshifters from causing a catastrophe?
 
+---
+
+## Read-Aloud: Opening
+
+The Silverfield Zoo is in chaos.
+
+**From a Cat's Perspective:**
+
+The smell hits you first—a bewildering symphony of scents you've never encountered. Elephant musk, monkey fur, snake scales, bird droppings from a hundred species. Big cat scent (lions? tigers? something that makes your instincts scream *PREDATOR*) mixed with zebra, giraffe, seal. It's overwhelming, disorienting. Your nose can't process it all.
+
+And over everything: the acrid stench of diesel fuel, fresh-cut lumber, and hot metal. Construction dust hangs in the air, making you want to sneeze. The ground vibrates with the rumble of heavy machinery—something big, mechanical, wrong. You can hear the *beep-beep-beep* of a backing excavator, the whine of power tools, humans shouting over the din.
+
+Animals are calling out in panic. You hear roars, trumpets, screeches—sounds that have no business being in Maine. A peacock's alarm call makes every hair on your body stand up. Something large is crashing through an enclosure, wood splintering with each impact.
+
+The zoo is a maze of half-finished construction—tarps flapping in the wind, piles of lumber, stacks of chain-link fence. The paths are torn up, exposing raw earth. Everywhere you look, there are cats: domestic cats sleeping in sunny spots, feral cats prowling the edges, and behind glass, the big cats watching with amber eyes that make you feel very, very small.
+
+Somewhere in this chaos is Jewels. And somewhere, hidden among dozens of cats, are the shapeshifters. You can feel them watching. But which cats are real, and which are lies?
+
+---
+
 **Situation Aspects:**
 *   **Under Construction:** The zoo is a maze of half-finished enclosures and scattered building materials.
 *   **Rampaging Excavator:** A piece of construction equipment has gone haywire, threatening animals and players alike.
 *   **The Shell Game:** Mehitabel and Ra are hiding in plain sight, disguised as one of the zoo's many feline inhabitants.
 *   **Panicked Animals:** The zoo's residents are terrified and unpredictable.
+*   **A Thousand Exotic Scents:** Overwhelming olfactory chaos making tracking difficult.
+*   **You Are VERY Small Here:** Surrounded by apex predators, even behind glass.
 
 **Key NPCs:**
 *   **Jewels:** Held in the veterinary clinic, groggy but aware of the danger.

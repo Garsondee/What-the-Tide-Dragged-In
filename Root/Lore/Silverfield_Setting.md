@@ -67,10 +67,10 @@ The pound features:
 - A veterinary area for sick or injured animals
 - Specialized silver animal tags (important for containing shapeshifters)
 
-### The Cat Parliament Amphitheater
-A repurposed human ruin—semicircular stone benches arranged around a central speaking floor. This is the sacred meeting ground of the **Cat Parliament**, where the cats of Silverfield debate territory, resources, and collective defense.
+### The Cat Parliament Grounds (Riverside Park Playground)
+A children's playground in a small residential park that the cats have cleverly repurposed as their parliamentary meeting ground. The slide serves as the Speaker's podium, the jungle gym as tiered seating for factions, the swings as gallery seating, and the sandbox serves... multiple purposes, not all of them dignified.
 
-The parliament convenes weekly, presided over by a Speaker wielding the ceremonial Speaking Gavel. Decorum is usually maintained, though recent tensions have turned some sessions chaotic.
+The **Cat Parliament** convenes here weekly at dusk, presided over by a Speaker wielding the ceremonial Speaking Gavel. The playground's metal surfaces provide excellent acoustics for speeches, though the cats must keep their voices down to avoid attracting attention from the nearby residential houses. Decorum is usually maintained, though recent tensions have turned some sessions chaotic.
 
 ### The History Society Library & Graveyard
 Run by **Mr. Graves**, a meticulous curator who may or may not be aware that his library is frequented by sentient cats. The library holds town records, obituaries, and historical documents dating back to Silverfield's founding.

@@ -2,11 +2,32 @@
 
 **Central Question:** Can the players uncover the truth when a massive bag of potent, high-grade catnip splits open in the town square, implicating the Cat Parliament in a public nuisance?
 
+---
+
+## Read-Aloud: Opening
+
+The town square smells like heaven. Or maybe hell. It's hard to tell.
+
+**From a Cat's Perspective:**
+
+The scent hits you like a physical wave—*catnip*. Not the mild stuff from a toy mouse. This is *premium*, oil-infused, impossibly potent catnip. The smell fills your nose, your mouth, your entire head. It's intoxicating, overwhelming, making your pupils dilate and your claws extend involuntarily. Every instinct screams at you to roll in it, to rub your face in it, to lose yourself in the euphoria.
+
+You have to dig your claws into the cobblestones just to stay upright. Focus. Focus. But the air is *thick* with it—a green-brown cloud of powdered bliss hanging over the square like fog. You can taste it on your tongue, minty and bitter-sweet, making you want to purr despite yourself.
+
+Around you, cats have completely lost it. A distinguished Parliament elder is rolling on her back in the middle of the street, paws batting at nothing. Two alley cats are wrestling playfully, their territorial feud forgotten. Even the usually stoic Slynx is sprawled in the catnip pile, purring so loud you can hear it from here, paws kneading the air.
+
+Humans stand at the edge of the square, some amused, some annoyed, some filming on their phones. The Town Mayor stands with arms crossed, face red with fury. This is *humiliating*. This makes your whole species look like addicts.
+
+And underneath the overwhelming scent of catnip, if you can focus through the haze, there's something else: the faint chemical smell of the torn bag's plastic, and a scent that doesn't belong. Cat, but... wrong.
+
+---
+
 **Situation Aspects:**
-*   The Air is Thick with 'Nip
-*   Cats Rolling in Ecstasy
-*   Accusatory Glares from Humans
+*   The Air is Thick with 'Nip (Will checks to resist; +2 difficulty)
+*   Cats Rolling in Ecstasy (deeply embarrassing)
+*   Accusatory Glares from Humans (filming everything)
 *   A Torn Bag with a Strange Symbol
+*   This is PREMIUM Stuff (oil-infused, expert-grade)
 
 **Key NPCs:**
 *   **The Town Mayor:** Furious and demanding answers.
