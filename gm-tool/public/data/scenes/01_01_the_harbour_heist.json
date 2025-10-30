@@ -1,0 +1,117 @@
+{
+  "id": "01_01_the_harbour_heist",
+  "act": 1,
+  "sceneNumber": 1,
+  "title": "The Harbour Heist",
+  "centralQuestion": "Can the players, as the muscle, fend off the Seagull Mafia long enough for the getaway team to secure the feast's main course?",
+  "recommendedTime": "25-35 minutes",
+  "situationAspects": [
+    "The Catch Is Coming In",
+    "Moored Ships And Creaking Ropes",
+    "Sunset",
+    "Hungry, Hungry Seagulls",
+    "Everything Here Is Twice Our Height",
+    "A Symphony Of Overwhelming Scents"
+  ],
+  "readAloud": {
+    "opening": "After the chaos of Wally's madness in the Darkwoods, the Cat Parliament convened an emergency session. The animals you rescued—dogs, lynx, and cats alike—had all fallen victim to the same enemy: shapeshifters working to destabilize Silverfield's fragile peace. In the aftermath, an idea took root: if the factions could work together against a common threat, perhaps they could work together for a common celebration.\n\nThe Harvest Feast was already planned—an annual autumn celebration where the animals gather to honor the season's bounty and give thanks for another year survived. But this year, the Parliament extended an invitation to the Sea Dogs and the Lynx clan to participate not just as guests, but as partners. Together tonight, you will stage a clean, quiet heist—secure the best of the catch while the gulls chase noise and smell elsewhere [[task:lever-1:Lever/Button|Bait & Switch: Deceive/Provoke to lure gulls to decoy fish guts; on success, add scene boost \"Frenzied Dive Away\".]].",
+    "perspective": "The sun is setting over Silverfield Harbor. The catch is coming in.\n\nYour whiskers twitch as the evening breeze carries a thousand scents—salt and seaweed, fish guts and motor oil, and underneath it all, the unfamiliar musk of dog and the wild pine-smell of lynx. The pier timbers creak beneath your paws, rough and splintered, and you can feel the subtle vibrations of heavy human boots thundering across the wooden planks like miniature earthquakes.\n\nTo your left, the fishing boats tower like floating buildings, their hulls looming twice the height of a human, casting long shadows in the orange light. The splash of water against their sides is almost deafening—cats aren't meant for this much noise. The seagulls' cries pitch until your ears flatten. \n\nA forklift whines somewhere out of sight—cover for movement if you time it right. Jewels flashes a look to Sappho; you know what it means without words: on the next lift, you move as one [[task:lever-0:Lever/Button|Crew Coordination: Overcome with Rapport/Provoke to synchronize with Sappho & Jewels; on success, gain a free invoke on \"Clean Getaway\".]]. A glint drops from a gull's beak and skitters under a bench—a wrench tag stamped with a foreign brand [[task:breadcrumb-0:Breadcrumb|Spot the shiny wrench tag (foreshadows Hydrant Havoc).]].\n\nThe lobster crates are massive—each one comes up past your shoulders. You'll have to jump to see inside, and the smell of them makes your mouth water despite yourself. Fresh seafood, brine, the sharp tang of shell and claw."
+  },
+  "npcs": [
+    {
+      "id": "sappho",
+      "name": "Sappho",
+      "pronouns": "she/her",
+      "role": "The designated getaway team member (with Jewels), remarkably coordinated for a cross-species pair",
+      "aspects": {
+        "highConcept": "Swashbuckling Sea Dog Captain",
+        "trouble": "Heart Before Head"
+      },
+      "linguisticClues": "Quickly! To the staging point! (in Dog-Conlang, to Jewels)"
+    },
+    {
+      "id": "jewels",
+      "name": "Jewels",
+      "pronouns": "she/her",
+      "role": "The designated getaway team member (with Sappho), remarkably coordinated for a cross-species pair",
+      "aspects": {
+        "highConcept": "Bridge Between Old Ways and New",
+        "trouble": "Torn Between Duty and Compassion"
+      },
+      "linguisticClues": "Patience, partner. The mission first, then the woods. (in Lynx-Conlang, to Sappho)"
+    }
+  ],
+  "zones": [
+    {
+      "name": "Land (Harborfront)",
+      "description": "Locals and tourists linger on benches and truck beds, fending gulls from paper-wrapped suppers. Humans are distracted—ripe for misdirection.",
+      "tasks": [
+        "Deceive/Provoke to bait gulls to decoy fish guts; on success, add scene boost 'Frenzied Dive Away'.",
+        "Notice to mark human patrol timings; gain 'Quiet Window' boost.",
+        "Empathy/Notice to read the watchful harbormaster's threshold; prepare leverage or a bribe/appeal angle."
+      ]
+    },
+    {
+      "name": "Pierhead (Weighing Area)",
+      "description": "Crates of lobsters line up beside battered pickups; buyers weigh, band, record and transfer them to seawater-filled boxes. Scales clatter; floodlights hum.",
+      "tasks": [
+        "Crafts to rig the overloaded winch for a swinging barrier across a lane.",
+        "Stealth/Crafts to use forklift noise, tarp covers, or floodlights against the gulls.",
+        "Notice to locate a loose tarp that can be turned into a mid-dive net."
+      ]
+    },
+    {
+      "name": "Wooden Pier (Dockside)",
+      "description": "Fisherfolk step from boat to shore, passing dripping totes hand to hand. Planks shudder underfoot; space is tight but controllable.",
+      "tasks": [
+        "Athletics/Notice to secure lanes between zones; place improvised barricades (nets, crates).",
+        "Investigate/Notice to spot a shiny wrench tag stamped with a foreign brand (breadcrumb toward Hydrant Havoc)."
+      ]
+    },
+    {
+      "name": "Fishing Boats (Waterline)",
+      "description": "Lobsters lifted from sloshing wells into crates, claws snapping in protest. Best catches are here—timing matters.",
+      "tasks": [
+        "Coordinate with Sappho & Jewels for a \"Clean Getaway\" timing window (free invoke on success).",
+        "Stealth to slip a crate while engine and winch noise masks movement."
+      ]
+    }
+  ],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "The team executes a perfect heist, securing the lobsters and escaping before the humans are any the wiser. Their new allies, Sappho and Jewels, are deeply impressed."
+    },
+    {
+      "type": "successWithCost",
+      "description": "They get the lobsters, but they make a lot of noise or are spotted. They have to make a run for it as the fisherfolk start shouting and giving chase, drawing unwanted attention."
+    },
+    {
+      "type": "failure",
+      "description": "The heist is a disaster. They are spotted early, the humans secure the lobster crates, and the players are forced to flee empty-pawed, with the gulls descending upon them in a frenzy."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Zone Control: Create Advantage with Athletics/Notice to secure lanes between zones; place improvised barricades (nets, crates) for free invokes.",
+      "Bait & Switch: Deceive/Provoke to lure the gulls to decoy fish guts; on success, add scene boost \"Frenzied Dive Away\".",
+      "Crew Coordination: Overcome with Rapport/Provoke to synchronize with Sappho & Jewels for timing; grants free invoke on \"Clean Getaway\" if aligned.",
+      "Human Blind Spots: Create Advantage with Stealth/Crafts to use forklift noise, tarp covers, or floodlights against avians."
+    ],
+    "hiddenAspects": [
+      "Loose Tarp Over Crates (Notice): Can be turned into a net to trap gulls mid-dive.",
+      "Overloaded Winch (Crafts): One yank could swing a crate to create a moving barrier.",
+      "Watchful Harbormaster (Empathy/Notice): Will intervene if chaos spreads; use to escalate or to gain leverage with a bribe/appeal."
+    ],
+    "breadcrumbs": [
+      "A gull drops a shiny wrench tag stamped with a foreign brand (ties to Hydrant Havoc)."
+    ],
+    "failForward": [
+      "Lose some crates but keep one key lobster box containing a clue (symbol matching later bag in Catnip Calamity).",
+      "Get spotted by fisherfolk, gaining scene consequence **Faces Remembered** which can be compelled later."
+    ],
+    "compels": []
+  },
+  "asSceneUnfolds": [],
+  "completed": false
+}

@@ -1,0 +1,1494 @@
+{
+  "characters": [],
+  "npcs": [
+    {
+      "id": "faction_leaders",
+      "name": "Faction Leaders (Old and New)",
+      "pronouns": "they/them",
+      "aliases": [
+        "faction leaders (old and new)",
+        "faction leaders (old and new)'s",
+        "faction leaders (old"
+      ],
+      "type": "npc",
+      "appearances": [
+        "04_01_the_great_awakening"
+      ],
+      "aspects": {
+        "highConcept": "Voices of the Many"
+      }
+    },
+    {
+      "id": "flustered_truck_driver",
+      "name": "The Flustered Truck Driver",
+      "pronouns": "he/him",
+      "aliases": [
+        "the flustered truck driver",
+        "flustered truck driver",
+        "the flustered truck driver's",
+        "flustered truck driver's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_01_the_squeaky_sabotage"
+      ],
+      "aspects": {
+        "highConcept": "Way Over His Head"
+      }
+    },
+    {
+      "id": "frenzied_pack_of_dogs",
+      "name": "A Frenzied Pack of Dogs",
+      "pronouns": "they/them",
+      "aliases": [
+        "a frenzied pack of dogs",
+        "frenzied pack of dogs",
+        "a frenzied pack of dogs's",
+        "frenzied pack of dogs's",
+        "a frenzied pack"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_01_the_squeaky_sabotage"
+      ],
+      "aspects": {
+        "highConcept": "Squeaky Toy Obsession"
+      }
+    },
+    {
+      "id": "animal_control_officers",
+      "name": "Animal Control Officers",
+      "pronouns": "they/them",
+      "aliases": [
+        "animal control officers",
+        "animal control officers's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "03_01_pound_rescue"
+      ],
+      "aspects": {
+        "highConcept": "Well-Meaning but Overworked"
+      }
+    },
+    {
+      "id": "wally_the_pied_piper",
+      "name": "Wally, the Pied Piper",
+      "pronouns": "he/him",
+      "aliases": [
+        "wally, the pied piper",
+        "wally, the pied piper's",
+        "wally,"
+      ],
+      "type": "npc",
+      "appearances": [
+        "00_04_the_pied_piper"
+      ],
+      "aspects": {
+        "highConcept": "Failed Stage Magician with Real Magic",
+        "trouble": "Desperate for Validation"
+      }
+    },
+    {
+      "id": "mystic_mogg_real",
+      "name": "The REAL Mystic Mogg",
+      "pronouns": "they/them",
+      "aliases": [
+        "the real mystic mogg",
+        "real mystic mogg",
+        "the real mystic mogg's",
+        "real mystic mogg's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "03_02_zoo_rescue"
+      ],
+      "aspects": {
+        "highConcept": "Master of Mystical Minutiae"
+      }
+    },
+    {
+      "id": "salty_sea_dogs",
+      "name": "The Salty Sea Dogs",
+      "pronouns": "they/them",
+      "aliases": [
+        "the salty sea dogs",
+        "salty sea dogs",
+        "the salty sea dogs's",
+        "salty sea dogs's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_02_the_hydrant_havoc"
+      ],
+      "aspects": {
+        "highConcept": "Water-Loving Canine Crew"
+      }
+    },
+    {
+      "id": "blissed_out_lynx",
+      "name": "A Blissed-Out Lynx",
+      "pronouns": "she/her",
+      "aliases": [
+        "a blissed-out lynx",
+        "blissed-out lynx",
+        "a blissed-out lynx's",
+        "blissed-out lynx's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_03_the_catnip_calamity"
+      ],
+      "aspects": {
+        "highConcept": "Thoroughly Intoxicated"
+      }
+    },
+    {
+      "id": "animal_horde",
+      "name": "The Animal Horde",
+      "pronouns": "they/them",
+      "aliases": [
+        "the animal horde",
+        "animal horde",
+        "the animal horde's",
+        "animal horde's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "00_03_the_lynx_guide"
+      ],
+      "aspects": {
+        "highConcept": "Mesmerized Menagerie"
+      }
+    },
+    {
+      "id": "local_alley_cats",
+      "name": "Local Alley Cats",
+      "pronouns": "they/them",
+      "aliases": [
+        "local alley cats",
+        "local alley cats's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_02_the_hydrant_havoc"
+      ],
+      "aspects": {
+        "highConcept": "Territorial and Water-Phobic"
+      }
+    },
+    {
+      "id": "sea_dog_captain",
+      "name": "Sea Dog Captain",
+      "pronouns": "he/him",
+      "aliases": [
+        "sea dog captain",
+        "sea dog captain's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "01_03_the_aftermath"
+      ],
+      "aspects": {
+        "highConcept": "Grizzled Veteran of the Seven Seas"
+      }
+    },
+    {
+      "id": "united_army",
+      "name": "The United Army",
+      "pronouns": "they/them",
+      "aliases": [
+        "the united army",
+        "united army",
+        "the united army's",
+        "united army's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "03_03_a_united_front"
+      ],
+      "aspects": {
+        "highConcept": "United in Purpose, Unstoppable in Number"
+      }
+    },
+    {
+      "id": "gull_mafia",
+      "name": "The Gull Mafia",
+      "pronouns": "they/them",
+      "aliases": [
+        "the gull mafia",
+        "gull mafia",
+        "the gull mafia's",
+        "gull mafia's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "01_02_the_seagulls_descend"
+      ],
+      "aspects": {
+        "highConcept": "Sky Pirates of Silverfield",
+        "other": [
+          "Overwhelming Numbers"
+        ]
+      }
+    },
+    {
+      "id": "town_mayor",
+      "name": "The Town Mayor",
+      "pronouns": "he/him",
+      "aliases": [
+        "the town mayor",
+        "town mayor",
+        "the town mayor's",
+        "town mayor's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "02_03_the_catnip_calamity"
+      ],
+      "aspects": {
+        "highConcept": "Image-Obsessed Official"
+      }
+    },
+    {
+      "id": "lynx_shaman",
+      "name": "Lynx Shaman",
+      "pronouns": "she/her",
+      "aliases": [
+        "lynx shaman",
+        "lynx shaman's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "01_03_the_aftermath",
+        "02_04_the_shamans_warning"
+      ],
+      "aspects": {
+        "highConcept": "Keeper of Ancient Wisdom"
+      }
+    },
+    {
+      "id": "mehitabel",
+      "name": "Mehitabel",
+      "pronouns": "she/her",
+      "aliases": [
+        "mehitabel",
+        "mehitabel's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "03_02_zoo_rescue",
+        "03_03_a_united_front",
+        "04_01_the_great_awakening"
+      ],
+      "aspects": {
+        "highConcept": "Vengeful Feral Cat Leader",
+        "trouble": "Bitter About Lost Territory"
+      }
+    },
+    {
+      "id": "big_lynx",
+      "name": "Big Lynx",
+      "pronouns": "they/them",
+      "aliases": [
+        "big lynx",
+        "big lynx's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "00_02_the_dark_woods"
+      ],
+      "aspects": {
+        "highConcept": "Ancient Guardian of the Darkwoods",
+        "trouble": "Tradition Above All Else"
+      }
+    },
+    {
+      "id": "sappho",
+      "name": "Sappho",
+      "pronouns": "she/her",
+      "aliases": [
+        "sappho",
+        "sappho's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "00_01_the_cat_parliament",
+        "01_01_the_harbour_heist",
+        "03_01_pound_rescue",
+        "03_03_a_united_front",
+        "04_01_the_great_awakening"
+      ],
+      "aspects": {
+        "highConcept": "Swashbuckling Sea Dog Captain",
+        "trouble": "Heart Before Head"
+      }
+    },
+    {
+      "id": "jewels",
+      "name": "Jewels",
+      "pronouns": "she/her",
+      "aliases": [
+        "jewels",
+        "jewels's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "00_02_the_dark_woods",
+        "01_01_the_harbour_heist",
+        "03_02_zoo_rescue",
+        "03_03_a_united_front",
+        "04_01_the_great_awakening"
+      ],
+      "aspects": {
+        "highConcept": "Bridge Between Old Ways and New",
+        "trouble": "Torn Between Duty and Compassion"
+      }
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "pronouns": "they/them",
+      "aliases": [
+        "ra",
+        "ra's"
+      ],
+      "type": "npc",
+      "appearances": [
+        "03_02_zoo_rescue",
+        "03_03_a_united_front",
+        "04_01_the_great_awakening"
+      ],
+      "aspects": {
+        "highConcept": "Theatrical Shapeshifter Artist",
+        "trouble": "Too Clever for Their Own Good"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "01_02_the_seagulls_descend",
+      "name": "The Seagulls Descend",
+      "fullName": "Act 1, Scene 2: The Seagulls Descend",
+      "aliases": [
+        "the seagulls descend",
+        "seagulls descend",
+        "the seagulls descend's",
+        "seagulls descend's"
+      ],
+      "act": 1,
+      "sceneNumber": 2,
+      "type": "scene"
+    },
+    {
+      "id": "02_01_the_squeaky_sabotage",
+      "name": "The Squeaky Sabotage",
+      "fullName": "Act 2, Scene 1: The Squeaky Sabotage",
+      "aliases": [
+        "the squeaky sabotage",
+        "squeaky sabotage",
+        "the squeaky sabotage's",
+        "squeaky sabotage's"
+      ],
+      "act": 2,
+      "sceneNumber": 1,
+      "type": "scene"
+    },
+    {
+      "id": "02_04_the_shamans_warning",
+      "name": "The Shaman's Warning",
+      "fullName": "Act 2, Scene 4: The Shaman's Warning",
+      "aliases": [
+        "the shaman's warning",
+        "shaman's warning",
+        "the shaman's warning's",
+        "shaman's warning's"
+      ],
+      "act": 2,
+      "sceneNumber": 4,
+      "type": "scene"
+    },
+    {
+      "id": "02_03_the_catnip_calamity",
+      "name": "The Catnip Calamity",
+      "fullName": "Act 2, Scene 3: The Catnip Calamity",
+      "aliases": [
+        "the catnip calamity",
+        "catnip calamity",
+        "the catnip calamity's",
+        "catnip calamity's"
+      ],
+      "act": 2,
+      "sceneNumber": 3,
+      "type": "scene"
+    },
+    {
+      "id": "04_01_the_great_awakening",
+      "name": "The Great Awakening",
+      "fullName": "Act 4, Scene 1: The Great Awakening",
+      "aliases": [
+        "the great awakening",
+        "great awakening",
+        "the great awakening's",
+        "great awakening's"
+      ],
+      "act": 4,
+      "sceneNumber": 1,
+      "type": "scene"
+    },
+    {
+      "id": "00_01_the_cat_parliament",
+      "name": "The Cat Parliament",
+      "fullName": "Act 0, Scene 1: The Cat Parliament",
+      "aliases": [
+        "the cat parliament",
+        "cat parliament",
+        "the cat parliament's",
+        "cat parliament's"
+      ],
+      "act": 0,
+      "sceneNumber": 1,
+      "type": "scene"
+    },
+    {
+      "id": "01_01_the_harbour_heist",
+      "name": "The Harbour Heist",
+      "fullName": "Act 1, Scene 1: The Harbour Heist",
+      "aliases": [
+        "the harbour heist",
+        "harbour heist",
+        "the harbour heist's",
+        "harbour heist's"
+      ],
+      "act": 1,
+      "sceneNumber": 1,
+      "type": "scene"
+    },
+    {
+      "id": "02_02_the_hydrant_havoc",
+      "name": "The Hydrant Havoc",
+      "fullName": "Act 2, Scene 2: The Hydrant Havoc",
+      "aliases": [
+        "the hydrant havoc",
+        "hydrant havoc",
+        "the hydrant havoc's",
+        "hydrant havoc's"
+      ],
+      "act": 2,
+      "sceneNumber": 2,
+      "type": "scene"
+    },
+    {
+      "id": "03_01_pound_rescue",
+      "name": "The Pound Rescue",
+      "fullName": "Act 3, Scene 1: The Pound Rescue",
+      "aliases": [
+        "the pound rescue",
+        "pound rescue",
+        "the pound rescue's",
+        "pound rescue's"
+      ],
+      "act": 3,
+      "sceneNumber": 1,
+      "type": "scene"
+    },
+    {
+      "id": "03_02_zoo_rescue",
+      "name": "The Zoo of Chaos",
+      "fullName": "Act 3, Scene 2: The Zoo of Chaos",
+      "aliases": [
+        "the zoo of chaos",
+        "zoo of chaos",
+        "the zoo of chaos's",
+        "zoo of chaos's",
+        "the zoo"
+      ],
+      "act": 3,
+      "sceneNumber": 2,
+      "type": "scene"
+    },
+    {
+      "id": "00_02_the_dark_woods",
+      "name": "The Dark Woods",
+      "fullName": "Act 0, Scene 2: The Dark Woods",
+      "aliases": [
+        "the dark woods",
+        "dark woods",
+        "the dark woods's",
+        "dark woods's"
+      ],
+      "act": 0,
+      "sceneNumber": 2,
+      "type": "scene"
+    },
+    {
+      "id": "00_03_the_lynx_guide",
+      "name": "The Lynx Guide",
+      "fullName": "Act 0, Scene 3: The Lynx Guide",
+      "aliases": [
+        "the lynx guide",
+        "lynx guide",
+        "the lynx guide's",
+        "lynx guide's"
+      ],
+      "act": 0,
+      "sceneNumber": 3,
+      "type": "scene"
+    },
+    {
+      "id": "00_04_the_pied_piper",
+      "name": "The Pied Piper",
+      "fullName": "Act 0, Scene 4: The Pied Piper",
+      "aliases": [
+        "the pied piper",
+        "pied piper",
+        "the pied piper's",
+        "pied piper's"
+      ],
+      "act": 0,
+      "sceneNumber": 4,
+      "type": "scene"
+    },
+    {
+      "id": "03_03_a_united_front",
+      "name": "A United Front",
+      "fullName": "Act 3, Scene 3: A United Front",
+      "aliases": [
+        "a united front",
+        "united front",
+        "a united front's",
+        "united front's"
+      ],
+      "act": 3,
+      "sceneNumber": 3,
+      "type": "scene"
+    },
+    {
+      "id": "01_03_the_aftermath",
+      "name": "The Aftermath",
+      "fullName": "Act 1, Scene 3: The Aftermath",
+      "aliases": [
+        "the aftermath",
+        "aftermath",
+        "the aftermath's",
+        "aftermath's"
+      ],
+      "act": 1,
+      "sceneNumber": 3,
+      "type": "scene"
+    }
+  ],
+  "aspects": [
+    {
+      "name": "Everything Smells of Bleach and Fear",
+      "fullText": "Everything Smells of Bleach and Fear",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "everything smells of bleach and fear",
+        "everything smells of bleach and fear's",
+        "everything smells"
+      ]
+    },
+    {
+      "name": "The Playground Amplifies Everything",
+      "fullText": "The Playground Amplifies Everything (metal surfaces echo, every yowl reverberates)",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "the playground amplifies everything",
+        "playground amplifies everything",
+        "the playground amplifies everything's",
+        "playground amplifies everything's"
+      ]
+    },
+    {
+      "name": "Everything Here is Twice Our Height",
+      "fullText": "Everything Here is Twice Our Height (the boats, crates, and humans loom like giants)",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "everything here is twice our height",
+        "everything here is twice our height's"
+      ]
+    },
+    {
+      "name": "A Terrifying, Trampling Menagerie",
+      "fullText": "A Terrifying, Trampling Menagerie",
+      "context": "Scene: The Lynx Guide",
+      "sceneId": "00_03_the_lynx_guide",
+      "type": "situation",
+      "aliases": [
+        "a terrifying, trampling menagerie",
+        "terrifying, trampling menagerie",
+        "a terrifying, trampling menagerie's",
+        "terrifying, trampling menagerie's"
+      ]
+    },
+    {
+      "name": "A Symphony of Overwhelming Scents",
+      "fullText": "A Symphony of Overwhelming Scents (fish, salt, dogs, lynx, humans, gulls—too much!)",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "a symphony of overwhelming scents",
+        "symphony of overwhelming scents",
+        "a symphony of overwhelming scents's",
+        "symphony of overwhelming scents's",
+        "a symphony"
+      ]
+    },
+    {
+      "name": "The Flute's Song is Overpowering",
+      "fullText": "The Flute's Song is Overpowering",
+      "context": "Scene: The Lynx Guide",
+      "sceneId": "00_03_the_lynx_guide",
+      "type": "situation",
+      "aliases": [
+        "the flute's song is overpowering",
+        "flute's song is overpowering",
+        "the flute's song is overpowering's",
+        "flute's song is overpowering's"
+      ]
+    },
+    {
+      "name": "A Torn Bag with a Strange Symbol",
+      "fullText": "A Torn Bag with a Strange Symbol",
+      "context": "Scene: The Catnip Calamity",
+      "sceneId": "02_03_the_catnip_calamity",
+      "type": "situation",
+      "aliases": [
+        "a torn bag with a strange symbol",
+        "torn bag with a strange symbol",
+        "a torn bag with a strange symbol's",
+        "torn bag with a strange symbol's",
+        "a torn bag"
+      ]
+    },
+    {
+      "name": "Moored Ships and Creaking Ropes",
+      "fullText": "Moored Ships and Creaking Ropes",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "moored ships and creaking ropes",
+        "moored ships and creaking ropes's",
+        "moored ships"
+      ]
+    },
+    {
+      "name": "Suspiciously Chewed Brake Lines",
+      "fullText": "Suspiciously Chewed Brake Lines",
+      "context": "Scene: The Squeaky Sabotage",
+      "sceneId": "02_01_the_squeaky_sabotage",
+      "type": "situation",
+      "aliases": [
+        "suspiciously chewed brake lines",
+        "suspiciously chewed brake lines's"
+      ]
+    },
+    {
+      "name": "A Moment of Quiet Contemplation",
+      "fullText": "A Moment of Quiet Contemplation",
+      "context": "Scene: The Shaman's Warning",
+      "sceneId": "02_04_the_shamans_warning",
+      "type": "situation",
+      "aliases": [
+        "a moment of quiet contemplation",
+        "moment of quiet contemplation",
+        "a moment of quiet contemplation's",
+        "moment of quiet contemplation's",
+        "a moment"
+      ]
+    },
+    {
+      "name": "The Smell of Rubber Everywhere",
+      "fullText": "The Smell of Rubber Everywhere",
+      "context": "Scene: The Squeaky Sabotage",
+      "sceneId": "02_01_the_squeaky_sabotage",
+      "type": "situation",
+      "aliases": [
+        "the smell of rubber everywhere",
+        "smell of rubber everywhere",
+        "the smell of rubber everywhere's",
+        "smell of rubber everywhere's",
+        "the smell"
+      ]
+    },
+    {
+      "name": "Accusatory Glares from Humans",
+      "fullText": "Accusatory Glares from Humans (filming everything)",
+      "context": "Scene: The Catnip Calamity",
+      "sceneId": "02_03_the_catnip_calamity",
+      "type": "situation",
+      "aliases": [
+        "accusatory glares from humans",
+        "accusatory glares from humans's",
+        "accusatory glares"
+      ]
+    },
+    {
+      "name": "Wild Magic Lingers in the Air",
+      "fullText": "Wild Magic Lingers in the Air (herb smoke, ozone, ancient power)",
+      "context": "Scene: The Shaman's Warning",
+      "sceneId": "02_04_the_shamans_warning",
+      "type": "situation",
+      "aliases": [
+        "wild magic lingers in the air",
+        "wild magic lingers in the air's",
+        "wild magic lingers in"
+      ]
+    },
+    {
+      "name": "Tree-Choppers Aren't Welcome",
+      "fullText": "Tree-Choppers Aren't Welcome",
+      "context": "Scene: The Dark Woods",
+      "sceneId": "00_02_the_dark_woods",
+      "type": "situation",
+      "aliases": [
+        "tree-choppers aren't welcome",
+        "tree-choppers aren't welcome's"
+      ]
+    },
+    {
+      "name": "Dark Shadows & Lofty Boughs",
+      "fullText": "Dark Shadows & Lofty Boughs",
+      "context": "Scene: The Dark Woods",
+      "sceneId": "00_02_the_dark_woods",
+      "type": "situation",
+      "aliases": [
+        "dark shadows & lofty boughs",
+        "dark shadows & lofty boughs's"
+      ]
+    },
+    {
+      "name": "Deafening, Discordant Music",
+      "fullText": "Deafening, Discordant Music",
+      "context": "Scene: The Pied Piper",
+      "sceneId": "00_04_the_pied_piper",
+      "type": "situation",
+      "aliases": [
+        "deafening, discordant music",
+        "deafening, discordant music's"
+      ]
+    },
+    {
+      "name": "Everything Reeks of Wet Dog",
+      "fullText": "Everything Reeks of Wet Dog",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "everything reeks of wet dog",
+        "everything reeks of wet dog's",
+        "everything reeks"
+      ]
+    },
+    {
+      "name": "The Forest Holds Its Breath",
+      "fullText": "The Forest Holds Its Breath (unsettling stillness)",
+      "context": "Scene: The Shaman's Warning",
+      "sceneId": "02_04_the_shamans_warning",
+      "type": "situation",
+      "aliases": [
+        "the forest holds its breath",
+        "forest holds its breath",
+        "the forest holds its breath's",
+        "forest holds its breath's"
+      ]
+    },
+    {
+      "name": "Accusations Fly Like Gulls",
+      "fullText": "Accusations Fly Like Gulls",
+      "context": "Scene: The Aftermath",
+      "sceneId": "01_03_the_aftermath",
+      "type": "situation",
+      "aliases": [
+        "accusations fly like gulls",
+        "accusations fly like gulls's"
+      ]
+    },
+    {
+      "name": "A Mountain of Squeaky Toys",
+      "fullText": "A Mountain of Squeaky Toys",
+      "context": "Scene: The Squeaky Sabotage",
+      "sceneId": "02_01_the_squeaky_sabotage",
+      "type": "situation",
+      "aliases": [
+        "a mountain of squeaky toys",
+        "mountain of squeaky toys",
+        "a mountain of squeaky toys's",
+        "mountain of squeaky toys's",
+        "a mountain"
+      ]
+    },
+    {
+      "name": "The Air is Thick with 'Nip",
+      "fullText": "The Air is Thick with 'Nip (Will checks to resist; +2 difficulty)",
+      "context": "Scene: The Catnip Calamity",
+      "sceneId": "02_03_the_catnip_calamity",
+      "type": "situation",
+      "aliases": [
+        "the air is thick with 'nip",
+        "air is thick with 'nip",
+        "the air is thick with 'nip's",
+        "air is thick with 'nip's",
+        "the air is thick"
+      ]
+    },
+    {
+      "name": "The Speaking Stone, Mended",
+      "fullText": "The Speaking Stone, Mended (communication is restored, and with it, a wave of new consciousness)",
+      "context": "Scene: A United Front",
+      "sceneId": "03_03_a_united_front",
+      "type": "situation",
+      "aliases": [
+        "the speaking stone, mended",
+        "speaking stone, mended",
+        "the speaking stone, mended's",
+        "speaking stone, mended's"
+      ]
+    },
+    {
+      "name": "Residential Houses Nearby",
+      "fullText": "Residential Houses Nearby (humans might investigate if it gets too loud)",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "residential houses nearby",
+        "residential houses nearby's"
+      ]
+    },
+    {
+      "name": "Boxes of 'Magic' Supplies",
+      "fullText": "Boxes of 'Magic' Supplies",
+      "context": "Scene: The Pied Piper",
+      "sceneId": "00_04_the_pied_piper",
+      "type": "situation",
+      "aliases": [
+        "boxes of 'magic' supplies",
+        "boxes of 'magic' supplies's",
+        "boxes"
+      ]
+    },
+    {
+      "name": "The Trail is Getting Cold",
+      "fullText": "The Trail is Getting Cold",
+      "context": "Scene: The Aftermath",
+      "sceneId": "01_03_the_aftermath",
+      "type": "situation",
+      "aliases": [
+        "the trail is getting cold",
+        "trail is getting cold",
+        "the trail is getting cold's",
+        "trail is getting cold's"
+      ]
+    },
+    {
+      "name": "Playful, Soaking-Wet Dogs",
+      "fullText": "Playful, Soaking-Wet Dogs (having the time of their lives)",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "playful, soaking-wet dogs",
+        "playful, soaking-wet dogs's"
+      ]
+    },
+    {
+      "name": "The Weight of the Mission",
+      "fullText": "The Weight of the Mission",
+      "context": "Scene: The Shaman's Warning",
+      "sceneId": "02_04_the_shamans_warning",
+      "type": "situation",
+      "aliases": [
+        "the weight of the mission",
+        "weight of the mission",
+        "the weight of the mission's",
+        "weight of the mission's",
+        "the weight"
+      ]
+    },
+    {
+      "name": "The Howling of the Damned",
+      "fullText": "The Howling of the Damned (constant, terrified animal sounds)",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "the howling of the damned",
+        "howling of the damned",
+        "the howling of the damned's",
+        "howling of the damned's",
+        "the howling"
+      ]
+    },
+    {
+      "name": "A Cacophony of New Voices",
+      "fullText": "A Cacophony of New Voices (the old order is gone; a new, more complex one must be built)",
+      "context": "Scene: The Great Awakening",
+      "sceneId": "04_01_the_great_awakening",
+      "type": "situation",
+      "aliases": [
+        "a cacophony of new voices",
+        "cacophony of new voices",
+        "a cacophony of new voices's",
+        "cacophony of new voices's",
+        "a cacophony"
+      ]
+    },
+    {
+      "name": "Streets Turned to Rivers",
+      "fullText": "Streets Turned to Rivers",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "streets turned to rivers",
+        "streets turned to rivers's"
+      ]
+    },
+    {
+      "name": "A Thousand Exotic Scents",
+      "fullText": "A Thousand Exotic Scents (overwhelming olfactory chaos making tracking difficult)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "a thousand exotic scents",
+        "thousand exotic scents",
+        "a thousand exotic scents's",
+        "thousand exotic scents's"
+      ]
+    },
+    {
+      "name": "Smells of Ancient Magic",
+      "fullText": "Smells of Ancient Magic",
+      "context": "Scene: The Dark Woods",
+      "sceneId": "00_02_the_dark_woods",
+      "type": "situation",
+      "aliases": [
+        "smells of ancient magic",
+        "smells of ancient magic's",
+        "smells"
+      ]
+    },
+    {
+      "name": "Hungry, Hungry Seagulls",
+      "fullText": "Hungry, Hungry Seagulls",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "hungry, hungry seagulls",
+        "hungry, hungry seagulls's"
+      ]
+    },
+    {
+      "name": "Everything Smells Wrong",
+      "fullText": "Everything Smells Wrong (blood, fear, unfamiliar cat-scent, fading traces)",
+      "context": "Scene: The Aftermath",
+      "sceneId": "01_03_the_aftermath",
+      "type": "situation",
+      "aliases": [
+        "everything smells wrong",
+        "everything smells wrong's"
+      ]
+    },
+    {
+      "name": "Dogs Losing Their Minds",
+      "fullText": "Dogs Losing Their Minds (but not hostile—just *enthused*)",
+      "context": "Scene: The Squeaky Sabotage",
+      "sceneId": "02_01_the_squeaky_sabotage",
+      "type": "situation",
+      "aliases": [
+        "dogs losing their minds",
+        "dogs losing their minds's"
+      ]
+    },
+    {
+      "name": "The Water is EVERYWHERE",
+      "fullText": "The Water is EVERYWHERE (and rising)",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "the water is everywhere",
+        "water is everywhere",
+        "the water is everywhere's",
+        "water is everywhere's"
+      ]
+    },
+    {
+      "name": "Cats Rolling in Ecstasy",
+      "fullText": "Cats Rolling in Ecstasy (deeply embarrassing)",
+      "context": "Scene: The Catnip Calamity",
+      "sceneId": "02_03_the_catnip_calamity",
+      "type": "situation",
+      "aliases": [
+        "cats rolling in ecstasy",
+        "cats rolling in ecstasy's"
+      ]
+    },
+    {
+      "name": "You Are VERY Small Here",
+      "fullText": "You Are VERY Small Here (surrounded by apex predators, even behind glass)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "you are very small here",
+        "you are very small here's"
+      ]
+    },
+    {
+      "name": "An Army of the Awakened",
+      "fullText": "An Army of the Awakened (the zoo animals are now sentient, angry, and ready to defend their home)",
+      "context": "Scene: A United Front",
+      "sceneId": "03_03_a_united_front",
+      "type": "situation",
+      "aliases": [
+        "an army of the awakened",
+        "army of the awakened",
+        "an army of the awakened's",
+        "army of the awakened's",
+        "an army"
+      ]
+    },
+    {
+      "name": "The Catch is Coming In",
+      "fullText": "The Catch is Coming In",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "the catch is coming in",
+        "catch is coming in",
+        "the catch is coming in's",
+        "catch is coming in's"
+      ]
+    },
+    {
+      "name": "A Sky Black with Gulls",
+      "fullText": "A Sky Black with Gulls",
+      "context": "Scene: The Seagulls Descend",
+      "sceneId": "01_02_the_seagulls_descend",
+      "type": "situation",
+      "aliases": [
+        "a sky black with gulls",
+        "sky black with gulls",
+        "a sky black with gulls's",
+        "sky black with gulls's",
+        "a sky black"
+      ]
+    },
+    {
+      "name": "The Prize is Slippery!",
+      "fullText": "The Prize is Slippery! (Invoke to hamper carries; compel to drop a crate at an inopportune moment)",
+      "context": "Scene: The Seagulls Descend",
+      "sceneId": "01_02_the_seagulls_descend",
+      "type": "situation",
+      "aliases": [
+        "the prize is slippery!",
+        "prize is slippery!",
+        "the prize is slippery!'s",
+        "prize is slippery!'s"
+      ]
+    },
+    {
+      "name": "Soggy and Furious Cats",
+      "fullText": "Soggy and Furious Cats (stuck on rooftops and fire escapes)",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "soggy and furious cats",
+        "soggy and furious cats's",
+        "soggy"
+      ]
+    },
+    {
+      "name": "A Rustle in the Bushes",
+      "fullText": "A Rustle in the Bushes",
+      "context": "Scene: The Shaman's Warning",
+      "sceneId": "02_04_the_shamans_warning",
+      "type": "situation",
+      "aliases": [
+        "a rustle in the bushes",
+        "rustle in the bushes",
+        "a rustle in the bushes's",
+        "rustle in the bushes's",
+        "a rustle in"
+      ]
+    },
+    {
+      "name": "Cornered and Desperate",
+      "fullText": "Cornered and Desperate (the shapeshifters have nowhere left to run and are lashing out)",
+      "context": "Scene: A United Front",
+      "sceneId": "03_03_a_united_front",
+      "type": "situation",
+      "aliases": [
+        "cornered and desperate",
+        "cornered and desperate's",
+        "cornered"
+      ]
+    },
+    {
+      "name": "This is PREMIUM Stuff",
+      "fullText": "This is PREMIUM Stuff (oil-infused, expert-grade)",
+      "context": "Scene: The Catnip Calamity",
+      "sceneId": "02_03_the_catnip_calamity",
+      "type": "situation",
+      "aliases": [
+        "this is premium stuff",
+        "this is premium stuff's"
+      ]
+    },
+    {
+      "name": "The Unspoken Question",
+      "fullText": "The Unspoken Question (what is to be done with Mehitabel and Ra?)",
+      "context": "Scene: The Great Awakening",
+      "sceneId": "04_01_the_great_awakening",
+      "type": "situation",
+      "aliases": [
+        "the unspoken question",
+        "unspoken question",
+        "the unspoken question's",
+        "unspoken question's"
+      ]
+    },
+    {
+      "name": "A Wrench Left Behind",
+      "fullText": "A Wrench Left Behind",
+      "context": "Scene: The Hydrant Havoc",
+      "sceneId": "02_02_the_hydrant_havoc",
+      "type": "situation",
+      "aliases": [
+        "a wrench left behind",
+        "wrench left behind",
+        "a wrench left behind's",
+        "wrench left behind's"
+      ]
+    },
+    {
+      "name": "Cold, Sterile Cages",
+      "fullText": "Cold, Sterile Cages",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "cold, sterile cages",
+        "cold, sterile cages's"
+      ]
+    },
+    {
+      "name": "The Wrong Cat Scent",
+      "fullText": "The Wrong Cat Scent (faint but present)",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "the wrong cat scent",
+        "wrong cat scent",
+        "the wrong cat scent's",
+        "wrong cat scent's"
+      ]
+    },
+    {
+      "name": "Rampaging Excavator",
+      "fullText": "Rampaging Excavator (a piece of construction equipment has gone haywire, threatening animals and players)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "rampaging excavator",
+        "rampaging excavator's"
+      ]
+    },
+    {
+      "name": "A World Transformed",
+      "fullText": "A World Transformed (dozens of new species are now sentient and speaking)",
+      "context": "Scene: The Great Awakening",
+      "sceneId": "04_01_the_great_awakening",
+      "type": "situation",
+      "aliases": [
+        "a world transformed",
+        "world transformed",
+        "a world transformed's",
+        "world transformed's"
+      ]
+    },
+    {
+      "name": "Cats are Prey Here",
+      "fullText": "Cats are Prey Here",
+      "context": "Scene: The Lynx Guide",
+      "sceneId": "00_03_the_lynx_guide",
+      "type": "situation",
+      "aliases": [
+        "cats are prey here",
+        "cats are prey here's"
+      ]
+    },
+    {
+      "name": "An Ancient Mystery",
+      "fullText": "An Ancient Mystery (shattered stone, old standing stones, lingering magic)",
+      "context": "Scene: The Aftermath",
+      "sceneId": "01_03_the_aftermath",
+      "type": "situation",
+      "aliases": [
+        "an ancient mystery",
+        "ancient mystery",
+        "an ancient mystery's",
+        "ancient mystery's"
+      ]
+    },
+    {
+      "name": "Under Construction",
+      "fullText": "Under Construction (the zoo is a maze of half-finished enclosures and scattered building materials)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "under construction",
+        "under construction's"
+      ]
+    },
+    {
+      "name": "A Broken Alliance",
+      "fullText": "A Broken Alliance",
+      "context": "Scene: The Aftermath",
+      "sceneId": "01_03_the_aftermath",
+      "type": "situation",
+      "aliases": [
+        "a broken alliance",
+        "broken alliance",
+        "a broken alliance's",
+        "broken alliance's"
+      ]
+    },
+    {
+      "name": "Deafening Squeaks",
+      "fullText": "Deafening Squeaks (high frequencies that hurt cat ears)",
+      "context": "Scene: The Squeaky Sabotage",
+      "sceneId": "02_01_the_squeaky_sabotage",
+      "type": "situation",
+      "aliases": [
+        "deafening squeaks",
+        "deafening squeaks's"
+      ]
+    },
+    {
+      "name": "Humans in Uniform",
+      "fullText": "Humans in Uniform",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "humans in uniform",
+        "humans in uniform's"
+      ]
+    },
+    {
+      "name": "Panicked Animals",
+      "fullText": "Panicked Animals (the zoo's residents are terrified and unpredictable)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "panicked animals",
+        "panicked animals's"
+      ]
+    },
+    {
+      "name": "Missing Speaker",
+      "fullText": "Missing Speaker",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "missing speaker",
+        "missing speaker's"
+      ]
+    },
+    {
+      "name": "Too Many Scents",
+      "fullText": "Too Many Scents (territorial markers clashing, stress pheromones thick, sandbox aroma)",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "too many scents",
+        "too many scents's"
+      ]
+    },
+    {
+      "name": "Nowhere to Hide",
+      "fullText": "Nowhere to Hide",
+      "context": "Scene: The Seagulls Descend",
+      "sceneId": "01_02_the_seagulls_descend",
+      "type": "situation",
+      "aliases": [
+        "nowhere to hide",
+        "nowhere to hide's"
+      ]
+    },
+    {
+      "name": "Nowhere to Hide",
+      "fullText": "Nowhere to Hide (bright lights, hard surfaces, open spaces)",
+      "context": "Scene: The Pound Rescue",
+      "sceneId": "03_01_pound_rescue",
+      "type": "situation",
+      "aliases": [
+        "nowhere to hide",
+        "nowhere to hide's"
+      ]
+    },
+    {
+      "name": "The Shell Game",
+      "fullText": "The Shell Game (Mehitabel and Ra are hiding in plain sight, disguised as feline inhabitants)",
+      "context": "Scene: The Zoo of Chaos",
+      "sceneId": "03_02_zoo_rescue",
+      "type": "situation",
+      "aliases": [
+        "the shell game",
+        "shell game",
+        "the shell game's",
+        "shell game's"
+      ]
+    },
+    {
+      "name": "Cats in Chaos",
+      "fullText": "Cats in Chaos (overwhelming noise and scent)",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "cats in chaos",
+        "cats in chaos's"
+      ]
+    },
+    {
+      "name": "Flimsy Shack",
+      "fullText": "Flimsy Shack",
+      "context": "Scene: The Pied Piper",
+      "sceneId": "00_04_the_pied_piper",
+      "type": "situation",
+      "aliases": [
+        "flimsy shack",
+        "flimsy shack's"
+      ]
+    },
+    {
+      "name": "Dusk Falls",
+      "fullText": "Dusk Falls (cooling rubber, fading light, hunting hour)",
+      "context": "Scene: The Cat Parliament",
+      "sceneId": "00_01_the_cat_parliament",
+      "type": "situation",
+      "aliases": [
+        "dusk falls",
+        "dusk falls's"
+      ]
+    },
+    {
+      "name": "Sunset",
+      "fullText": "Sunset",
+      "context": "Scene: The Harbour Heist",
+      "sceneId": "01_01_the_harbour_heist",
+      "type": "situation",
+      "aliases": [
+        "sunset",
+        "sunset's"
+      ]
+    }
+  ],
+  "stunts": [],
+  "locations": [
+    {
+      "id": "harbor",
+      "name": "Silverfield Harbor",
+      "type": "location",
+      "locationType": "location",
+      "aliases": [
+        "the harbor",
+        "harbour"
+      ]
+    },
+    {
+      "id": "zoo",
+      "name": "Silverfield Zoo",
+      "type": "location",
+      "locationType": "location",
+      "aliases": [
+        "the zoo"
+      ]
+    },
+    {
+      "id": "cat_parliament",
+      "name": "Cat Parliament",
+      "type": "location",
+      "locationType": "government",
+      "aliases": [
+        "cat parliament",
+        "cat parliament's"
+      ]
+    },
+    {
+      "id": "riverside_park",
+      "name": "Riverside Park",
+      "type": "location",
+      "locationType": "location",
+      "aliases": [
+        "riverside park",
+        "riverside park's"
+      ]
+    },
+    {
+      "id": "animal_control",
+      "name": "Animal Control",
+      "type": "location",
+      "locationType": "building",
+      "aliases": [
+        "animal control",
+        "animal control's"
+      ]
+    },
+    {
+      "id": "silverfield",
+      "name": "Silverfield",
+      "type": "location",
+      "locationType": "town",
+      "aliases": [
+        "silverfield",
+        "silverfield's"
+      ]
+    },
+    {
+      "id": "darkwoods",
+      "name": "Darkwoods",
+      "type": "location",
+      "locationType": "forest",
+      "aliases": [
+        "the darkwoods",
+        "dark woods"
+      ]
+    }
+  ],
+  "metadata": {
+    "buildDate": "2025-10-30T17:55:59.139Z",
+    "totalEntities": 42,
+    "counts": {
+      "characters": 0,
+      "npcs": 20,
+      "scenes": 15,
+      "aspects": 68,
+      "stunts": 0,
+      "locations": 7
+    }
+  }
+}

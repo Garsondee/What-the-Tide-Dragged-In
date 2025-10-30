@@ -1,0 +1,352 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Dyslexia-friendly base settings */
+  body {
+    @apply bg-light text-dark;
+    font-size: 16px;          /* Standardized base font size */
+    letter-spacing: 0.03em;   /* Increased letter spacing for dyslexia */
+    line-height: 1.7;         /* Increased line height for readability */
+  }
+  
+  /* Ensure good contrast for readability */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-dark;
+    letter-spacing: 0.02em;
+  }
+  
+  /* Standardize text sizes for consistency */
+  p, li, span, div {
+    font-size: 16px;
+    letter-spacing: 0.03em;
+  }
+  
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Better focus indicators for accessibility */
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-500 rounded;
+  }
+}
+
+@layer components {
+  /* Navigation buttons - large and clear */
+  .nav-btn {
+    @apply px-6 py-3 text-lg font-semibold rounded-lg
+           border-2 border-primary-500 bg-white text-primary-600
+           hover:bg-primary-500 hover:text-white
+           transition-all duration-200 ease-in-out
+           shadow-card hover:shadow-card-hover
+           active:scale-95;
+  }
+  
+  .nav-btn-secondary {
+    @apply px-4 py-2 text-base font-medium rounded-md
+           bg-gray-100 text-gray-700
+           hover:bg-gray-200
+           transition-colors duration-150;
+  }
+  
+  /* Accordion sections */
+  .accordion-header {
+    @apply w-full px-5 py-3.5 text-left font-semibold text-base
+           bg-gray-50 hover:bg-gray-100
+           border border-gray-200 rounded-t-lg
+           flex items-center gap-3
+           transition-colors duration-150
+           cursor-pointer;
+  }
+  
+  .accordion-header .icon {
+    @apply transition-transform duration-200;
+  }
+  
+  .accordion-section.open .accordion-header .icon {
+    @apply rotate-90;
+  }
+  
+  .accordion-content {
+    @apply overflow-hidden transition-all duration-300 ease-in-out
+           border-x border-b border-gray-200 rounded-b-lg;
+    max-height: 0;
+  }
+  
+  .accordion-section.open .accordion-content {
+    @apply px-5 py-4;
+    max-height: 2000px;
+  }
+
+  /* Open state header polish */
+  .accordion-section.open .accordion-header {
+    @apply border-primary-200 shadow-card bg-white;
+  }
+  
+  /* Card-style panels */
+  .panel {
+    @apply bg-white rounded-lg border border-gray-200 shadow-card
+           p-4 mb-4;
+  }
+  
+  .panel-header {
+    @apply text-lg font-semibold text-dark mb-3 pb-2
+           border-b border-gray-200;
+  }
+  
+  /* Initiative tracker items */
+  .initiative-item {
+    @apply flex items-center gap-3 px-3 py-2 rounded-md
+           border-b border-gray-100 last:border-0
+           transition-colors duration-150;
+  }
+  
+  .initiative-item.active {
+    @apply bg-primary-50 border-l-4 border-l-primary-500 font-semibold;
+  }
+  
+  .initiative-item:hover {
+    @apply bg-gray-50;
+  }
+  
+  /* Scene index items */
+  .scene-item {
+    @apply px-3 py-2 rounded-md cursor-pointer
+           transition-colors duration-150
+           flex items-center gap-2 text-sm
+           text-gray-200;  /* Explicit default text color on dark sidebar */
+  }
+  
+  .scene-item:hover {
+    @apply bg-white/10;
+  }
+  
+  .scene-item.active {
+    @apply bg-primary-600 font-semibold shadow-md text-white border-l-4 border-l-primary-300 pl-2; /* Stronger contrast + left marker */
+  }
+  
+  .scene-item.completed {
+    @apply opacity-60;
+  }
+
+  /* Ensure any spans inside scene items inherit the computed color */
+  .scene-item span {
+    color: inherit;
+  }
+
+  /* Keyboard focus visibility on list items */
+  .scene-item:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-400;
+  }
+  
+  /* Input fields */
+  .input-field {
+    @apply px-3 py-2 border border-gray-300 rounded-md
+           focus:ring-2 focus:ring-primary-500 focus:border-transparent
+           transition-shadow duration-150;
+  }
+  
+  /* Buttons */
+  .btn-primary {
+    @apply px-4 py-2 bg-primary-500 text-white rounded-md
+           hover:bg-primary-600 active:scale-95
+           transition-all duration-150
+           font-medium shadow-sm hover:shadow;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 bg-gray-100 text-gray-800 rounded-md
+           hover:bg-gray-200 active:scale-95
+           transition-all duration-150 font-medium;
+  }
+
+  .btn-outline {
+    @apply px-4 py-2 border-2 border-primary-500 text-primary-600 rounded-md
+           hover:bg-primary-50 active:scale-95 transition-all duration-150 font-medium;
+  }
+
+  /* Inline Task Callouts - Bolder appearance */
+  .task-callout {
+    @apply bg-success-100 border-2 border-success-400 rounded-md px-3 py-2 shadow-md max-w-xs;
+  }
+  .task-callout .font-semibold {
+    @apply font-bold text-gray-900;
+  }
+  .task-callout input:checked + span .font-semibold {
+    @apply line-through text-gray-400;
+  }
+
+  /* Aspect badges bar */
+  .aspect-badges {
+    @apply flex flex-wrap gap-2 items-center;
+  }
+  .aspect-badge {
+    @apply inline-flex items-center gap-1 px-2 py-1 rounded-full text-sm font-medium
+           bg-primary-50 text-primary-700 border border-primary-200;
+  }
+  .aspect-badge .remove-btn {
+    @apply ml-1 text-primary-500 hover:text-primary-700 cursor-pointer;
+  }
+  
+  .btn-success {
+    @apply px-4 py-2 bg-success text-white rounded-md
+           hover:bg-success-dark active:scale-95
+           transition-all duration-150
+           font-medium shadow-sm hover:shadow;
+  }
+  
+  .btn-danger {
+    @apply px-4 py-2 bg-danger text-white rounded-md
+           hover:bg-danger-dark active:scale-95
+           transition-all duration-150
+           font-medium shadow-sm hover:shadow;
+  }
+  
+  /* Status indicators */
+  .status-ahead {
+    @apply text-success font-semibold;
+  }
+  
+  .status-on-track {
+    @apply text-warning font-semibold;
+  }
+  
+  .status-behind {
+    @apply text-danger font-semibold;
+  }
+  
+  /* Tooltips */
+  .tooltip {
+    @apply absolute z-50 px-3 py-2 text-sm bg-dark text-white
+           rounded-md shadow-lg pointer-events-none
+           animate-fade-in;
+  }
+}
+
+@layer utilities {
+  /* Custom scrollbar for better UX */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-gray-100 rounded;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-gray-400 rounded hover:bg-gray-500;
+  }
+  
+  /* Text utilities for dyslexia-friendly formatting */
+  .text-dyslexia {
+    letter-spacing: 0.05em;
+    word-spacing: 0.16em;
+    line-height: 1.8;
+  }
+  
+  /* No text selection for UI elements */
+  .no-select {
+    user-select: none;
+  }
+}
+
+/* Minimal prose fallback (in case typography plugin is absent) */
+.prose {
+  max-width: 100ch;
+}
+.prose h1, .prose h2, .prose h3 {
+  @apply font-semibold text-dark mt-4 mb-2;
+}
+.prose p { 
+  @apply my-2 text-gray-800; 
+}
+.prose ul { 
+  @apply list-disc pl-5 my-2; 
+}
+.prose ol { 
+  @apply list-decimal pl-5 my-2; 
+}
+
+/* Entity Links - Wiki-style hyperlinking */
+.entity-link {
+  @apply font-semibold underline decoration-2 underline-offset-2 cursor-pointer;
+  @apply transition-all duration-150;
+}
+
+.entity-link:hover {
+  @apply no-underline;
+}
+
+/* Character/NPC links - Blue */
+.entity-character,
+.entity-npc {
+  @apply text-blue-600 decoration-blue-400;
+}
+
+.entity-character:hover,
+.entity-npc:hover {
+  @apply bg-blue-50 text-blue-700;
+}
+
+/* Scene links - Green */
+.entity-scene {
+  @apply text-green-600 decoration-green-400;
+}
+
+.entity-scene:hover {
+  @apply bg-green-50 text-green-700;
+}
+
+/* Aspect links - Purple */
+.entity-aspect {
+  @apply text-purple-600 decoration-purple-400;
+}
+
+.entity-aspect:hover {
+  @apply bg-purple-50 text-purple-700;
+}
+
+/* Stunt links - Orange */
+.entity-stunt {
+  @apply text-orange-600 decoration-orange-400;
+}
+
+.entity-stunt:hover {
+  @apply bg-orange-50 text-orange-700;
+}
+
+/* Location links - Brown */
+.entity-location {
+  @apply text-amber-700 decoration-amber-500;
+}
+
+.entity-location:hover {
+  @apply bg-amber-50 text-amber-800;
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  .accordion-content {
+    max-height: none !important;
+    page-break-inside: avoid;
+  }
+  
+  /* Print entity links as regular text with markers */
+  .entity-link:hover {
+    @apply no-underline;
+  }
+  
+
+  .entity-link::after {
+    content: " [" attr(data-entity-type) "]";
+    @apply text-xs text-gray-500;
+  }
+}

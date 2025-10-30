@@ -1,0 +1,89 @@
+{
+  "id": "00_01_the_cat_parliament",
+  "act": 0,
+  "sceneNumber": 1,
+  "title": "The Cat Parliament",
+  "centralQuestion": "Can the players restore order to the chaotic parliament and learn the source of the disturbance?",
+  "recommendedTime": "20-30 minutes",
+  "situationAspects": [
+    "Cats in Chaos (overwhelming noise and scent)",
+    "Dusk Falls (cooling rubber, fading light, hunting hour)",
+    "Missing Speaker",
+    "Too Many Scents (territorial markers clashing, stress pheromones thick, sandbox aroma)",
+    "The Playground Amplifies Everything (metal surfaces echo, every yowl reverberates)",
+    "Residential Houses Nearby (humans might investigate if it gets too loud)"
+  ],
+  "readAloud": {
+    "opening": "The evening air hangs thick with tension as you approach Riverside Park's children's playground where the Cat Parliament convenes. Dusk paints the sky in bruised purples and fading golds, and the noise hits you before you even round the corner—a cacophony of yowls, hisses, and caterwauling that would put a midnight alley brawl to shame. This is supposed to be a dignified gathering, the weekly assembly where the cats of Silverfield debate matters of territory, resource allocation, and collective defense. Instead, chaos reigns.",
+    "perspective": "The playground itself is prime real estate—a small park nestled among residential houses, with colorful equipment that the cats have brilliantly repurposed for parliament. The swing set serves as the \"gallery seating,\" with cats perched on the swings and chains. The slide has become the Speaker's podium—normally the Speaker stands at the top, addressing the assembly below with gravitas. The jungle gym acts as tiered seating for the various factions. And the sandbox... well, let's just say it serves *multiple* purposes for the parliament, not all of them dignified.\n\nThe rubber playground surface is still warm under your paws from the day's sun, though it's rapidly cooling as dusk settles in. It has a slight give to it—softer than pavement but firmer than grass. Your claws find little purchase on the textured material.\n\nThe *sound* is overwhelming. Dozens of cats yowling at once creates a wall of noise that makes your ears flatten involuntarily. High-pitched frequencies pierce through—territorial challenges, mating calls repurposed as insults, the ultrasonic edge of true fury. It physically hurts. The playground equipment amplifies and echoes the chaos. You want to press your paws over your ears, but that would look weak.\n\nAnd there, sitting awkwardly on the edge of the sandbox like an uninvited guest at a formal dinner, is Sappho. The piratical Labrador cuts an unusual figure—a dog at a cat parliament is already strange, but everything about her screams urgency. Her golden coat is matted with salt spray and forest debris. She's *huge* compared to you, even sitting down—her head is at the height of a standing cat, her paws the size of your whole body."
+  },
+  "npcs": [
+    {
+      "id": "sappho",
+      "name": "Sappho",
+      "pronouns": "she/her",
+      "role": "A piratical dog sitting nervously on the outskirts, waiting for a chance to speak",
+      "aspects": {
+        "highConcept": "Swashbuckling Sea Dog Captain",
+        "trouble": "Heart Before Head"
+      },
+      "linguisticClues": "Help... vanishing... Darkwoods... must follow... (in Dog-Conlang)"
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "The players manage to calm the parliament, either through diplomacy, intimidation, or clever maneuvering (perhaps by claiming the high ground atop the slide). They get the key information from Sappho: animals are vanishing into the Darkwoods, and she needs their help to follow."
+    },
+    {
+      "type": "successWithCost",
+      "description": "The players restore order, but not before a rival cat makes a power play, creating a future complication. Or, they learn the information from Sappho, but have angered a faction within the parliament."
+    },
+    {
+      "type": "failure",
+      "description": "The chaos continues, and the players must find another way to get the information from Sappho, perhaps by sneaking away from the dysfunctional meeting. This could lead to them being seen as irresponsible by the parliament later on."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Calm the Floor: Overcome with Rapport/Provoke/Will to quiet factions. Success unlocks Sappho's approach; a tie grants a one-use boost like \"Momentary Silence\".",
+      "Spot the Speaker's Notes: Investigate/Notice to find discarded agenda notes hinting at recent disappearances and a planned motion about the Darkwoods.",
+      "Use Procedure: Create Advantage with Lore/Contacts to invoke \"Rules of Order\" and seize the mic.",
+      "Stage a Distraction: Create Advantage with Deceive/Athletics to split the room and open a path to Sappho."
+    ],
+    "hiddenAspects": [
+      "Buried Agenda Item (discover via Investigate): Mentions reports of missing animals near the Darkwoods.",
+      "Rival Faction Whispering (discover via Notice): A clique wants to pin chaos on dogs; compel later to escalate tensions.",
+      "Sappho's Secret Signal (discover via Empathy/Notice): A subtle tail tap pattern; reading it grants a free invoke to \"Private Parley\" with Sappho."
+    ],
+    "breadcrumbs": [
+      "Sappho points to the Darkwoods gate and a Lynx gatekeeper (leads to Scene 2).",
+      "Notes reference a broken relic called the \"Speaking Stone\" (foreshadows Act 1 Scene 2 twist).",
+      "Whispered rumor: \"New faces among the Lynx\" (soft ping toward shapeshifters)."
+    ],
+    "failForward": [
+      "Chaos continues but a sympathetic clerk slips them the agenda note (reveal Darkwoods lead anyway, at a cost/aspect like \"On the Parliament's Bad Side\").",
+      "An ejection from the hall creates a scene aspect **Thrown Out Into Dusk** granting stealthier access to Sappho outside."
+    ],
+    "compels": [
+      "Sappho's Trouble or factional pride to stall the PCs until they make a concrete promise.",
+      "Any PC Trouble tied to authority or impulse; trade time for information."
+    ]
+  },
+  "asSceneUnfolds": [
+    {
+      "trigger": "If players investigate the scattered papers (Investigate/Notice)",
+      "description": "Sifting through the debris, you find a half-trampled agenda sheet. The header reads \"72nd Session of the Silverfield Cat Parliament\" in the Speaker's precise paw-script. Most of the items are routine—disputes over alley boundaries, a motion to expand the catnip garden cooperative—but one line near the bottom catches your eye, hastily scrawled and marked with an urgent asterisk: \"Motion to Address: Disappearances near the Darkwoods boundary. Four cats, two dogs, one lynx reported missing over the past moon. Concerns raised by Lynx emissary and Sea Dog representatives. PRIORITY DISCUSSION.\" Below it, in a different paw—messier, worried—someone has added: \"Where is the Speaker? She went to investigate the tree-line two days ago and hasn't returned.\""
+    },
+    {
+      "trigger": "If players observe the rival faction closely (Notice/Empathy)",
+      "description": "You notice a tight cluster of three cats near the back—a scarred tomcat flanked by two younger, aggressive-looking allies. They're not participating in the general shouting; instead, they're whispering among themselves, shooting dark looks at Sappho. You catch fragments of their conversation: \"...perfect opportunity...\" \"...dogs bring nothing but trouble...\" \"...if we frame this right, we can turn the whole parliament against their kind...\" They're waiting for the chaos to reach a crescendo, planning to use Sappho's presence as a wedge issue to consolidate their own power."
+    },
+    {
+      "trigger": "If players watch Sappho closely (Empathy/Notice)",
+      "description": "Sappho's anxiety isn't random. Every thirty seconds or so, she taps her tail against the sandbox's wooden edge in a deliberate rhythm: *tap-tap, pause, tap, pause, tap-tap-tap*. It's not nervous fidgeting—it's a signal, repeated over and over. If you know Sea Dog signal codes (or make a good guess), it translates roughly to: \"Urgent. Private. Now.\" She's trying to tell you she needs to speak away from the crowd, somewhere the parliament can't overhear or interfere."
+    }
+  ],
+  "completed": false
+}

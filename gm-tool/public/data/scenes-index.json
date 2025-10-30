@@ -1,0 +1,141 @@
+{
+  "adventure": {
+    "title": "What the Tide Dragged In",
+    "totalScenes": 15,
+    "acts": 5
+  },
+  "scenes": [
+    {
+      "id": "00_01_the_cat_parliament",
+      "act": 0,
+      "sceneNumber": 1,
+      "title": "The Cat Parliament",
+      "file": "00_01_the_cat_parliament.json"
+    },
+    {
+      "id": "00_02_the_dark_woods",
+      "act": 0,
+      "sceneNumber": 2,
+      "title": "The Dark Woods",
+      "file": "00_02_the_dark_woods.json"
+    },
+    {
+      "id": "00_03_the_lynx_guide",
+      "act": 0,
+      "sceneNumber": 3,
+      "title": "The Lynx Guide",
+      "file": "00_03_the_lynx_guide.json"
+    },
+    {
+      "id": "00_04_the_pied_piper",
+      "act": 0,
+      "sceneNumber": 4,
+      "title": "The Pied Piper",
+      "file": "00_04_the_pied_piper.json"
+    },
+    {
+      "id": "01_01_the_harbour_heist",
+      "act": 1,
+      "sceneNumber": 1,
+      "title": "The Harbour Heist",
+      "file": "01_01_the_harbour_heist.json"
+    },
+    {
+      "id": "01_02_the_seagulls_descend",
+      "act": 1,
+      "sceneNumber": 2,
+      "title": "The Seagulls Descend",
+      "file": "01_02_the_seagulls_descend.json"
+    },
+    {
+      "id": "01_03_the_aftermath",
+      "act": 1,
+      "sceneNumber": 3,
+      "title": "The Aftermath",
+      "file": "01_03_the_aftermath.json"
+    },
+    {
+      "id": "02_01_the_squeaky_sabotage",
+      "act": 2,
+      "sceneNumber": 1,
+      "title": "The Squeaky Sabotage",
+      "file": "02_01_the_squeaky_sabotage.json"
+    },
+    {
+      "id": "02_02_the_hydrant_havoc",
+      "act": 2,
+      "sceneNumber": 2,
+      "title": "The Hydrant Havoc",
+      "file": "02_02_the_hydrant_havoc.json"
+    },
+    {
+      "id": "02_03_the_catnip_calamity",
+      "act": 2,
+      "sceneNumber": 3,
+      "title": "The Catnip Calamity",
+      "file": "02_03_the_catnip_calamity.json"
+    },
+    {
+      "id": "02_04_the_shamans_warning",
+      "act": 2,
+      "sceneNumber": 4,
+      "title": "The Shaman's Warning",
+      "file": "02_04_the_shamans_warning.json"
+    },
+    {
+      "id": "03_01_pound_rescue",
+      "act": 3,
+      "sceneNumber": 1,
+      "title": "The Pound Rescue",
+      "file": "03_01_pound_rescue.json"
+    },
+    {
+      "id": "03_02_zoo_rescue",
+      "act": 3,
+      "sceneNumber": 2,
+      "title": "The Zoo of Chaos",
+      "file": "03_02_zoo_rescue.json"
+    },
+    {
+      "id": "03_03_a_united_front",
+      "act": 3,
+      "sceneNumber": 3,
+      "title": "A United Front",
+      "file": "03_03_a_united_front.json"
+    },
+    {
+      "id": "04_01_the_great_awakening",
+      "act": 4,
+      "sceneNumber": 1,
+      "title": "The Great Awakening",
+      "file": "04_01_the_great_awakening.json"
+    }
+  ],
+  "actSummaries": {
+    "act0": {
+      "title": "Prologue: Wally's Madness",
+      "description": "A tutorial adventure to reintroduce Fate Core mechanics and establish the new status quo where cats, dogs, and lynx can communicate.",
+      "sceneCount": 4
+    },
+    "act1": {
+      "title": "The Shattered Stone",
+      "description": "The Harvest Feast heist goes wrong when the Speaking Stone is shattered, severing inter-species communication.",
+      "sceneCount": 3
+    },
+    "act2": {
+      "title": "Chaos in Silverfield",
+      "description": "A series of orchestrated incidents threaten to tear the fragile alliance apart while the players search for their missing friends.",
+      "sceneCount": 4
+    },
+    "act3": {
+      "title": "The Rescue and Revelation",
+      "description": "The players rescue Sappho and Jewels, uncover the shapeshifters' plot, and recover the pieces needed to restore the Speaking Stone.",
+      "sceneCount": 3
+    },
+    "act4": {
+      "title": "Epilogue",
+      "description": "The Speaking Stone is restored, communication is expanded, and a new era begins for Silverfield.",
+      "sceneCount": 1
+    }
+  }
+}

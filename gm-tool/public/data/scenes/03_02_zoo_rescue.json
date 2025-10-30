@@ -1,0 +1,105 @@
+{
+  "id": "03_02_zoo_rescue",
+  "act": 3,
+  "sceneNumber": 2,
+  "title": "The Zoo of Chaos",
+  "centralQuestion": "Can the players rescue Jewels while also preventing the shapeshifters from causing a catastrophe?",
+  "recommendedTime": "40-50 minutes",
+  "situationAspects": [
+    "Under Construction (the zoo is a maze of half-finished enclosures and scattered building materials)",
+    "Rampaging Excavator (a piece of construction equipment has gone haywire, threatening animals and players)",
+    "The Shell Game (Mehitabel and Ra are hiding in plain sight, disguised as feline inhabitants)",
+    "Panicked Animals (the zoo's residents are terrified and unpredictable)",
+    "A Thousand Exotic Scents (overwhelming olfactory chaos making tracking difficult)",
+    "You Are VERY Small Here (surrounded by apex predators, even behind glass)"
+  ],
+  "readAloud": {
+    "opening": "The Silverfield Zoo is in chaos.",
+    "perspective": "The smell hits you first—a bewildering symphony of scents you've never encountered. Elephant musk, monkey fur, snake scales, bird droppings from a hundred species. Big cat scent (lions? tigers? something that makes your instincts scream *PREDATOR*) mixed with zebra, giraffe, seal. It's overwhelming, disorienting. Your nose can't process it all.\n\nAnd over everything: the acrid stench of diesel fuel, fresh-cut lumber, and hot metal. Construction dust hangs in the air, making you want to sneeze. The ground vibrates with the rumble of heavy machinery—something big, mechanical, wrong. You can hear the *beep-beep-beep* of a backing excavator, the whine of power tools, humans shouting over the din.\n\nAnimals are calling out in panic. You hear roars, trumpets, screeches—sounds that have no business being in Maine. A peacock's alarm call makes every hair on your body stand up. Something large is crashing through an enclosure, wood splintering with each impact.\n\nThe zoo is a maze of half-finished construction—tarps flapping in the wind, piles of lumber, stacks of chain-link fence. The paths are torn up, exposing raw earth. Everywhere you look, there are cats: domestic cats sleeping in sunny spots, feral cats prowling the edges, and behind glass, the big cats watching with amber eyes that make you feel very, very small.\n\nSomewhere in this chaos is Jewels. And somewhere, hidden among dozens of cats, are the shapeshifters. You can feel them watching. But which cats are real, and which are lies?"
+  },
+  "npcs": [
+    {
+      "id": "jewels",
+      "name": "Jewels",
+      "pronouns": "she/her",
+      "role": "Held in the veterinary clinic, groggy but aware of the danger",
+      "aspects": {
+        "highConcept": "Bridge Between Old Ways and New",
+        "trouble": "Torn Between Duty and Compassion"
+      },
+      "linguisticClues": "It's a trap! They are not what they seem! One is among you! (in Lynx-Conlang)"
+    },
+    {
+      "id": "mystic_mogg_real",
+      "name": "The REAL Mystic Mogg",
+      "pronouns": "they/them",
+      "role": "Tied up and hidden in the clinic",
+      "aspects": {
+        "highConcept": "Master of Mystical Minutiae"
+      }
+    },
+    {
+      "id": "mehitabel",
+      "name": "Mehitabel",
+      "pronouns": "she/her",
+      "role": "In disguise, orchestrating the chaos from within",
+      "aspects": {
+        "highConcept": "Vengeful Feral Cat Leader",
+        "trouble": "Bitter About Lost Territory"
+      }
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "pronouns": "they/them",
+      "role": "In disguise, orchestrating the chaos from within",
+      "aspects": {
+        "highConcept": "Theatrical Shapeshifter Artist",
+        "trouble": "Too Clever for Their Own Good"
+      }
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "The players rescue Jewels and the real Mystic Mogg, leading to the dramatic reveal of Ra's deception. Jewels provides **the Jade Heart Stone**—the 12th and final piece needed to complete the Speaking Stone. With all 11 shell fragments and the heart now in their possession, the PCs can reforge the stone and restore communication."
+    },
+    {
+      "type": "successWithCost",
+      "description": "They rescue Jewels, but the machinery causes significant damage, or an innocent animal is hurt, adding a complication to the final act. Jewels still provides the Heart Stone, but the victory is bittersweet."
+    },
+    {
+      "type": "failure",
+      "description": "The players are forced to retreat, leaving Jewels behind for now. The shapeshifters have proven they can create chaos on a massive scale, raising the stakes for the final confrontation. Without the Jade Heart Stone, the Speaking Stone cannot be completed—the shell may be whole, but it remains inert."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Control the Machine: Crafts/Lore to disable or redirect the excavator; aspects \"Emergency Stop\" or \"Deadman Switch Braced\" with free invokes.",
+      "Disguise Detection: Create Advantage with Investigate/Empathy to spot micro-tells in cat behavior; place \"Mask Slips\" to unmask a shifter.",
+      "Zone Safety: Overcome with Athletics/Notice to clear paths and pen panicked animals; place \"Safe Corridor\".",
+      "Split Ops: Run a two-prong plan—one team to clinic (stealth), one to machinery (control). Offer cross-scene boosts when timed."
+    ],
+    "hiddenAspects": [
+      "Toolbox with Missing Keys (Investigate): Suggests inside help or prior tampering.",
+      "Faint Silver Smear (Lore): On clinic doorframe; ties to silver tag lore.",
+      "Keeper's Radio Chatter (Notice): Reveals staff positions and a momentary blind spot."
+    ],
+    "breadcrumbs": [
+      "Vet notes mention unusual sedation protocols requested by an external \"consultant\" (points to shifters' manipulation).",
+      "A zoo map with a maintenance tunnel to the amphitheater—future staging ground."
+    ],
+    "failForward": [
+      "Machinery causes collateral damage; create consequence **Public Outcry Building** for the Epilogue.",
+      "Rescue only one (Jewels or Mogg) now; the other requires a short follow-up micro-scene or bargain with staff."
+    ],
+    "compels": [
+      "PC compassion compels to save an endangered non-target animal first.",
+      "Ra taunts through a PC's belief or bond, provoking risky pursuit."
+    ]
+  },
+  "asSceneUnfolds": [],
+  "completed": false,
+  "gmNotes": "THE REVEAL: When the players find Jewels, they also find the real, bound Mystic Mogg. This is the moment of the big reveal, where \"Mogg\" (Ra) can no longer maintain the deception.\n\nTHE JADE HEART STONE: After the rescue and reveal, Jewels reaches into a hidden fold in her fur and produces the green jade stone carved with the word for \"love\" in both Dog-Conlang and Lynx-Conlang. \"Sappho and I... we made a vow on this stone. It was to be our secret—a promise that our love could bridge any divide. But now it must save everyone. This is the heart. Without it, the Speaking Stone is just a shell. With it... everything changes.\""
+}

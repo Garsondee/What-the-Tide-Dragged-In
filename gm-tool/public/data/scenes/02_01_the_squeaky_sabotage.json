@@ -1,0 +1,82 @@
+{
+  "id": "02_01_the_squeaky_sabotage",
+  "act": 2,
+  "sceneNumber": 1,
+  "title": "The Squeaky Sabotage",
+  "centralQuestion": "Can the players contain the chaos after a delivery truck full of squeaky toys crashes, threatening to reveal the town's animal society to the humans?",
+  "recommendedTime": "20-30 minutes",
+  "situationAspects": [
+    "A Mountain of Squeaky Toys",
+    "Deafening Squeaks (high frequencies that hurt cat ears)",
+    "Dogs Losing Their Minds (but not hostile—just *enthused*)",
+    "Suspiciously Chewed Brake Lines",
+    "The Smell of Rubber Everywhere"
+  ],
+  "readAloud": {
+    "opening": "A delivery truck sits at an angle in the middle of Main Street, its back doors flung open and its cargo spilled across the asphalt.",
+    "perspective": "The noise is *unbearable*. Every dog in Silverfield seems to have converged on this spot, and they're all squeaking toys at once. The high-pitched *squeak-squeak-squeak* hits frequencies that make your skull vibrate. Your ears flatten against your head, but it doesn't help. The sound is everywhere, relentless, drilling into your brain.\n\nThe smell of rubber and cheap plastic is thick enough to taste. Mixed with it is the hot, panting breath of dozens of overexcited dogs—a wave of canine enthusiasm that's almost visible. The street is a sea of bouncing, chomping, frantically wagging tails, each dog lost in a squeaky frenzy. They're not aggressive, but they're also not *aware*. A German Shepherd bounds past, narrowly missing you, a rubber duck clamped in her jaws.\n\nThe asphalt is warm under your paws from the afternoon sun, but also slick in places where toys have rolled. You can feel the vibrations of dozens of paws hitting pavement, of tails thumping, of toys being shaken and thrown. It's chaos incarnate, and right in the middle of it all, a flustered human is shouting into a phone while trying to corral the madness.\n\nAnd then you notice: the truck's brake lines, dangling beneath the chassis. They're not broken—they're *chewed*. Cleanly. Deliberately."
+  },
+  "npcs": [
+    {
+      "id": "frenzied_pack_of_dogs",
+      "name": "A Frenzied Pack of Dogs",
+      "pronouns": "they/them",
+      "role": "Not hostile, but completely lost in a squeaky frenzy",
+      "aspects": {
+        "highConcept": "Squeaky Toy Obsession"
+      },
+      "linguisticClues": "So many toys! Can't... stop... squeaking! (in Dog-Conlang)"
+    },
+    {
+      "id": "flustered_truck_driver",
+      "name": "The Flustered Truck Driver",
+      "pronouns": "he/him",
+      "role": "Panicked and trying to call for help",
+      "aspects": {
+        "highConcept": "Way Over His Head"
+      }
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "The players manage to corral the dogs, hide the sheer scale of the animal involvement, and perhaps swipe a few squeaky toys for themselves. They notice the brake lines on the truck look deliberately chewed, the first clue that this was no accident."
+    },
+    {
+      "type": "successWithCost",
+      "description": "They contain the chaos, but not before a local news reporter gets a blurry photo of a cat trying to hotwire a forklift, creating a minor media buzz about \"abnormally intelligent animals.\""
+    },
+    {
+      "type": "failure",
+      "description": "The chaos spills out into the main street. Animal Control is called, and the players have to make a hasty retreat to avoid being captured themselves."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Crowd Herding: Create Advantage with Rapport/Provoke to redirect dogs into safer zones; place \"Makeshift Pens\" as an aspect.",
+      "Scene Control: Crafts to disable forklift, kill alarm, tarp the pile; Stealth to keep humans from noticing.",
+      "Investigate Sabotage: Investigate/Lore on brake lines and tire tracks to place \"Clearly Tampered\" with a free invoke.",
+      "Media Management: Rapport/Deceive with the Driver/Reporter to shape the narrative; gain \"Innocent Explanation\" boost."
+    ],
+    "hiddenAspects": [
+      "Foreign Tool Marks (Investigate): Match wrench from Hydrant Havoc.",
+      "Toy Batch Sticker (Notice): Supplier linked to the zoo gift shop buyer.",
+      "Scent of Catnip Oil (Notice): Foreshadows Catnip Calamity."
+    ],
+    "breadcrumbs": [
+      "Delivery manifest lists the zoo as a frequent destination.",
+      "Security camera with a blind spot conveniently exploited—someone knew its arc."
+    ],
+    "failForward": [
+      "Animal Control arrives, but the PCs slip away with a clue and a new scene aspect **Wanted by AC**.",
+      "Dogs disperse wildly, but one trained pup follows PCs as an asset for a scene."
+    ],
+    "compels": [
+      "PC Trouble about playfulness or curiosity to get stuck in the squeak pile.",
+      "Driver's panic escalates unless calmed; forces a time crunch."
+    ]
+  },
+  "asSceneUnfolds": [],
+  "completed": false
+}

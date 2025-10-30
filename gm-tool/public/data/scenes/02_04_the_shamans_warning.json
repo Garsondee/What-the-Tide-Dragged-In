@@ -1,0 +1,68 @@
+{
+  "id": "02_04_the_shamans_warning",
+  "act": 2,
+  "sceneNumber": 4,
+  "title": "The Shaman's Warning",
+  "centralQuestion": "Can the players decipher a cryptic warning from an unexpected source?",
+  "recommendedTime": "15-20 minutes",
+  "situationAspects": [
+    "A Moment of Quiet Contemplation",
+    "The Weight of the Mission",
+    "A Rustle in the Bushes",
+    "The Forest Holds Its Breath (unsettling stillness)",
+    "Wild Magic Lingers in the Air (herb smoke, ozone, ancient power)"
+  ],
+  "readAloud": {
+    "opening": "You're taking a shortcut through the edge of the woods when everything goes suddenly, unnaturally quiet.",
+    "perspective": "The hair along your spine rises. The forest sounds—birds, insects, rustling leaves—all stop at once, like someone pressed pause on the world. Your whiskers twitch, sensing movement you can't quite see. The scent hits you a moment later: lynx. Wild, powerful, mixed with something herbal and old—sage smoke, crushed pine needles, earth magic.\n\nThe Lynx Shaman materializes from the shadows between two birch trees. She moves without sound, her large paws leaving no trace on the leaf litter. Her eyes are ancient, amber, and far too knowing. The air around her feels *different*—charged, like just before a thunderstorm. Your fur stands on end involuntarily.\n\nShe looks at each of you in turn, her gaze heavy with meaning. When she speaks, her voice is low, resonant, pitched to carry through the incomprehensible barrier of Lynx-Conlang. The words are gibberish to you, but the urgency is unmistakable. She's trying to *warn* you of something.\n\nThen, as quickly as she appeared, she melts back into the forest. The normal sounds return—a bird chirps, leaves rustle—but you're left with goosebumps under your fur and the lingering scent of wild magic."
+  },
+  "npcs": [
+    {
+      "id": "lynx_shaman",
+      "name": "The Lynx Shaman",
+      "pronouns": "she/her",
+      "role": "Appearing suddenly from the shadows, looking grave",
+      "aspects": {
+        "highConcept": "Keeper of Ancient Wisdom",
+        "other": ["Sees Beyond the Veil"]
+      },
+      "linguisticClues": "Moon-metal binds the shifting skin. Cage of man holds cage of lies. Seek the silver... silence the change. (in Lynx-Conlang)"
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "If the players have deciphered enough of the Lynx conlang, they understand the shaman's message: there is something made of silver ('moon-metal') in the Animal Control building ('cage of man') that can trap a shapeshifter ('binds the shifting skin'). This gives them a new, optional objective for the Pound Rescue."
+    },
+    {
+      "type": "failure",
+      "description": "The players cannot understand the shaman's words. The warning is lost to them as the shaman melts back into the shadows, leaving them with only a sense of foreboding. The optional objective is not revealed."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Decode the Omen: Overcome with Lore/Linguistics/Empathy; success grants aspect \"Moon-Metal Insight\" with a free invoke in the pound.",
+      "Barter for Clarity: Create Advantage with Rapport/Resources by offering a service, token, or future vow for a clearer hint.",
+      "Follow the Sign: Notice/Athletics to trace the shaman's chalk marks toward a side entrance route to AC."
+    ],
+    "hiddenAspects": [
+      "Moon-Metal Residue (Lore): Fine silver dust on the shaman's fur; confirms material relevance.",
+      "Forest Ward Etchings (Investigate): Pattern echoes the Speaking Stone glyphs."
+    ],
+    "breadcrumbs": [
+      "Marked map scrap with a circle around the AC office supply room.",
+      "A riddle that references \"tags that pinch the moon\" (points to the silver tag)."
+    ],
+    "failForward": [
+      "They misread the riddle but still learn the AC layout shortcut.",
+      "The shaman departs abruptly, but a small charm is left behind granting a one-time +2 to resist shapeshift illusions."
+    ],
+    "compels": [
+      "PC Trouble about skepticism to dismiss the omen; later regret opens a concession bargain.",
+      "The shaman's aloofness tests PC patience, provoking a rash move."
+    ]
+  },
+  "asSceneUnfolds": [],
+  "completed": false
+}

@@ -399,7 +399,7 @@ A scene is **playtest-complete** when:
 - ✅ All dice rolls have clear DCs
 - ✅ All NPC interactions are defined
 - ✅ Scene transitions are obvious
-- ⚠️ Minor issues are acceptable if noted
+- ⚠️ Minor issues are acceptable if noted - The GM is able to accomodate unusual requests or provide creative solutions, we know the GM and Players are good at improvising, that they WANT to solve the problems and that they are more generally useful than difficult to please or unhelpful. Players should ask natural questions which arise from encountering the material but you shouldn't check first to see if that has already been covered, the point is to organically discover edge cases or missing content.
 
 An adventure is **playtest-ready** when:
 - ✅ All scenes pass individual playtest

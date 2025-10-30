@@ -1,0 +1,100 @@
+{
+  "id": "04_01_the_great_awakening",
+  "act": 4,
+  "sceneNumber": 1,
+  "title": "The Great Awakening",
+  "centralQuestion": "Now that the world has changed forever, what comes next?",
+  "recommendedTime": "30-40 minutes",
+  "situationAspects": [
+    "A World Transformed (dozens of new species are now sentient and speaking)",
+    "The Unspoken Question (what is to be done with Mehitabel and Ra?)",
+    "A Cacophony of New Voices (the old order is gone; a new, more complex one must be built)"
+  ],
+  "readAloud": {
+    "opening": "The Speaking Stone rests at the center of the gathering, whole and radiant. Its jade heart pulses with gentle warmth, and the shell fragments around it gleam with renewed purpose. The impossible has happened: universal communication has been restored—and expanded beyond anyone's wildest dreams.",
+    "perspective": "Around you, the world has transformed. Zoo animals who lived their lives in cages now speak with eloquence and fury. Dogs and lynx converse freely with cats. The barriers that once divided Silverfield's animal society have shattered, replaced by something vast and uncertain.\n\nSappho and Jewels stand together at the heart of it all, their paws intertwined, a living symbol of what this moment represents. Love bridging divides. Unity forged from chaos. Hope born from crisis.\n\nBut celebration is tempered by reality. Mehitabel and Ra sit bound and guarded, awaiting judgment. Faction leaders—old and new—eye each other warily, uncertain of where they fit in this brave new world. And the question hangs in the air, unspoken but impossible to ignore: What comes next?"
+  },
+  "npcs": [
+    {
+      "id": "sappho",
+      "name": "Sappho",
+      "pronouns": "she/her",
+      "role": "Ambassador for a new era of inter-species cooperation",
+      "aspects": {
+        "highConcept": "Swashbuckling Sea Dog Captain",
+        "trouble": "Heart Before Head"
+      }
+    },
+    {
+      "id": "jewels",
+      "name": "Jewels",
+      "pronouns": "she/her",
+      "role": "Ambassador for a new era of inter-species cooperation",
+      "aspects": {
+        "highConcept": "Bridge Between Old Ways and New",
+        "trouble": "Torn Between Duty and Compassion"
+      }
+    },
+    {
+      "id": "faction_leaders",
+      "name": "Faction Leaders (Old and New)",
+      "pronouns": "they/them",
+      "role": "Representatives from the established factions and the newly awakened zoo animals",
+      "aspects": {
+        "highConcept": "Voices of the Many"
+      }
+    },
+    {
+      "id": "mehitabel",
+      "name": "Mehitabel",
+      "pronouns": "she/her",
+      "role": "Imprisoned and awaiting judgment",
+      "aspects": {
+        "highConcept": "Vengeful Feral Cat Leader",
+        "trouble": "Bitter About Lost Territory"
+      }
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "pronouns": "they/them",
+      "role": "Imprisoned and awaiting judgment",
+      "aspects": {
+        "highConcept": "Theatrical Shapeshifter Artist",
+        "trouble": "Too Clever for Their Own Good"
+      }
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "This is a narrative scene focused on the world-building consequences of the players' actions. They are hailed as heroes, but the celebration is tempered by the immense challenge of integrating so many new minds into society. The decision is made to hold the shapeshifters for a formal trial, creating a direct hook for the next adventure. The players can help establish the groundwork for a new, all-encompassing \"United Parliament of Silverfield.\" They are awarded a significant milestone for fundamentally changing their world."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Set Agenda: Create Advantage with Rapport/Lore to define the first charter items (rights, safety, representation); place \"Draft Charter Articles\" with free invokes.",
+      "Mediate Justice: Will/Empathy to balance calls for vengeance vs trial for Mehitabel & Ra; aspect \"Legitimate Process\" avoids mob justice.",
+      "Assign Roles: Contacts/Rapport to propose ambassadors, wardens, translators; create \"Working Committees\" for future leverage.",
+      "Public Narrative: Provoke/Rapport to frame the awakening as hopeful; reduce future social opposition."
+    ],
+    "hiddenAspects": [
+      "Uneasy Factions (Empathy): Old grudges simmer beneath unity; can be invoked/compelled in future politics.",
+      "Paper Trail Fragments (Investigate): Documents recovered point to outside backers for the shifters.",
+      "Awakened Outliers (Notice): Non-zoo species showing signs of awakening—scope is expanding."
+    ],
+    "breadcrumbs": [
+      "A sealed letter marked with the unknown sigil from earlier clues (hook to next arc's patron).",
+      "Trial date set; needs advocates, evidence, and security—mini-arc setup."
+    ],
+    "failForward": [
+      "Talks fracture into committees that bicker off-stage, but the PCs walk away with authority to act, plus one concrete resource or ally.",
+      "Public skepticism grows, but PCs secure evidence against the shifters' patrons, priming the next investigation."
+    ],
+    "compels": []
+  },
+  "asSceneUnfolds": [],
+  "completed": false,
+  "gmNotes": "INTEGRATE CONSEQUENCES: Surface scene/character consequences from prior acts (Public Outcry, faction wounds) and convert into standing campaign aspects or debts. Offer milestones: minor for participation, significant for pivotal choices; consider major if the world order shift was dramatic."
+}

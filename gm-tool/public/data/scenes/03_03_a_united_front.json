@@ -1,0 +1,109 @@
+{
+  "id": "03_03_a_united_front",
+  "act": 3,
+  "sceneNumber": 3,
+  "title": "A United Front",
+  "centralQuestion": "Can the newly forged alliance defeat the shapeshifters and secure the future of Silverfield?",
+  "recommendedTime": "45-60 minutes",
+  "situationAspects": [
+    "The Speaking Stone, Mended (communication is restored, and with it, a wave of new consciousness)",
+    "An Army of the Awakened (the zoo animals are now sentient, angry, and ready to defend their home)",
+    "Cornered and Desperate (the shapeshifters have nowhere left to run and are lashing out)"
+  ],
+  "readAloud": {
+    "opening": "The Speaking Stone pulses with renewed light, its jade heart glowing warm and green at the center of the reassembled shell. All around you, the world shifts. The incomprehensible becomes clear. Dogs, lynx, and even the zoo animals—all of them now speak in a language you can understand.",
+    "perspective": "The alliance stands united. Cats, dogs, lynx, and newly awakened zoo animals form a massive force, their voices raised in righteous fury. At the center of it all stand Sappho and Jewels, side by side, their love a symbol of everything this moment represents.\n\nAnd ahead, cornered against the amphitheater wall, are Mehitabel and Ra. Their plans lie in ruins, their deceptions exposed, their escape routes cut off. They snarl and hiss, prepared to fight to the bitter end."
+  },
+  "npcs": [
+    {
+      "id": "mehitabel",
+      "name": "Mehitabel (Nightpaw)",
+      "pronouns": "she/her",
+      "role": "Fighting for their freedom, their plans in ashes",
+      "aspects": {
+        "highConcept": "Vengeful Feral Cat Leader",
+        "trouble": "Bitter About Lost Territory",
+        "other": ["A Thousand Faces", "The Home We Lost"]
+      }
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "pronouns": "they/them",
+      "role": "Fighting for their freedom, their plans in ashes",
+      "aspects": {
+        "highConcept": "Theatrical Shapeshifter Artist",
+        "trouble": "Too Clever for Their Own Good",
+        "other": ["Gremlin in the Machine"]
+      }
+    },
+    {
+      "id": "sappho",
+      "name": "Sappho",
+      "pronouns": "she/her",
+      "role": "Standing together with Jewels, a symbol of the new unity",
+      "aspects": {
+        "highConcept": "Swashbuckling Sea Dog Captain",
+        "trouble": "Heart Before Head"
+      }
+    },
+    {
+      "id": "jewels",
+      "name": "Jewels",
+      "pronouns": "she/her",
+      "role": "Standing together with Sappho, a symbol of the new unity",
+      "aspects": {
+        "highConcept": "Bridge Between Old Ways and New",
+        "trouble": "Torn Between Duty and Compassion"
+      }
+    },
+    {
+      "id": "united_army",
+      "name": "The United Army",
+      "pronouns": "they/them",
+      "role": "A massive force of cats, dogs, lynx, and enraged zoo animals",
+      "aspects": {
+        "highConcept": "United in Purpose, Unstoppable in Number"
+      }
+    }
+  ],
+  "zones": [],
+  "potentialOutcomes": [
+    {
+      "type": "success",
+      "description": "The shapeshifters are overwhelmed by the sheer numbers and righteous fury of the united army. They are captured, not killed, and taken away to face justice. Upon their defeat, the players recover **any remaining shell fragments of the Speaking Stone** from them (the shapeshifters had been keeping these as \"insurance\"). With all 11 shell fragments now gathered and the jade heart stone from Jewels, the Speaking Stone can be fully restored. The alliance is solidified, and the players are hailed as heroes."
+    },
+    {
+      "type": "successWithCost",
+      "description": "The shapeshifters are captured, but not before one of them lands a significant blow on a key NPC, or reveals a disturbing piece of information about a new threat on the horizon, leaving a hook for the next adventure."
+    }
+  ],
+  "gmGuidance": {
+    "leversAndButtons": [
+      "Tag the Shifter: Overcome with Athletics/Fight/Notice teamwork to attach the Silver Tag; on success, place \"Tagged!\" shutting down disguise/machinery stunts.",
+      "Command the Field: Create Advantage with Provoke/Rapport to coordinate the United Army; aspects like \"Encirclement\" or \"Volley of Distractors\".",
+      "Exploit Terrain: Crafts/Athletics to topple barriers, funnel foes; add \"Choke Point\" or \"High Ground Overlook\".",
+      "Expose the Lie: Investigate/Empathy to call out shifter tells mid-fight, compelling a mistake."
+    ],
+    "hiddenAspects": [
+      "Cracking Resolve (Empathy): Mehitabel doubts the endgame—press for concession.",
+      "Unstable Power Source (Lore/Crafts): A device the shifters rely on runs hot; disabling causes a stunt to fizzle.",
+      "Fractured Allegiances (Rapport): Some animals hesitate; flip them with a stirring appeal."
+    ],
+    "breadcrumbs": [
+      "A coded note on Ra hints at outside patrons beyond Silverfield (hooks next arc).",
+      "Fragments of altered documents referencing zoo contracts and an unknown sigil."
+    ],
+    "failForward": [
+      "PCs win but at a severe cost: a key ally takes a consequence that colors the Epilogue.",
+      "Shifters escape but drop evidence and lose face; alliance still forms, trial postponed."
+    ],
+    "compels": [
+      "PC mercy compels to accept surrender and shift to social victory conditions.",
+      "Enemy desperation compels collateral damage unless contained, forcing hard choices."
+    ]
+  },
+  "asSceneUnfolds": [],
+  "completed": false,
+  "gmNotes": "THE SILVER TAG: If the players acquired the **Silver Anti-Shapeshifter Tag**, they can attempt to use it in this conflict. A successful Overcome roll against the shapeshifter's Physique will attach the tag. A tagged shapeshifter cannot use their **A Thousand Faces** or **Gremlin in the Machine** stunts and can no longer spend Fate points to alter their physical form. This makes them significantly easier to defeat.\n\nTHE VILLAIN REVEAL: At a dramatic moment during the confrontation, Mehitabel delivers her confession about the Ferris wheel incident that destroyed the Feral Cats' home, explaining her motivation. Ra introduces themselves as a theatrical shapeshifter who allied with Mehitabel after meeting at the zoo. Use this dialogue to add emotional weight to the final battle."
+}

@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cooldown System Test</title>
+  <style>
+    body {
+      font-family: monospace;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #00ff00;
+    }
+    .test-result {
+      padding: 10px;
+      margin: 5px 0;
+      border-left: 4px solid;
+    }
+    .pass {
+      border-color: #00ff00;
+      background: #002200;
+    }
+    .fail {
+      border-color: #ff0000;
+      background: #220000;
+    }
+    .info {
+      border-color: #0088ff;
+      background: #001122;
+    }
+    .section {
+      margin: 20px 0;
+      padding: 15px;
+      background: #2a2a2a;
+      border: 1px solid #444;
+    }
+    button {
+      background: #00ff00;
+      color: #000;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-family: monospace;
+      font-size: 14px;
+      margin: 5px;
+    }
+    button:hover {
+      background: #00dd00;
+    }
+    .log {
+      background: #000;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #444;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🧪 Cooldown System Automated Test</h1>
+  
+  <div class="section">
+    <h2>Controls</h2>
+    <button onclick="runAllTests()">▶ Run All Tests</button>
+    <button onclick="clearResults()">🗑️ Clear Results</button>
+  </div>
+
+  <div class="section">
+    <h2>Test Results</h2>
+    <div id="results"></div>
+  </div>
+
+  <div class="section">
+    <h2>Console Log</h2>
+    <div id="log" class="log"></div>
+  </div>
+
+  <script type="module">
+    // Mock composables for testing
+    class MockScenes {
+      constructor() {
+        this.currentSceneId = { value: null };
+      }
+    }
+
+    // Import the actual cooldown logic (simplified for testing)
+    class CooldownSystem {
+      constructor() {
+        this.promptCooldowns = new Map();
+        this.COOLDOWN_DURATION = 60 * 1000; // 60 seconds
+      }
+
+      startCooldown(sceneId) {
+        if (!sceneId) return;
+        const now = Date.now();
+        this.promptCooldowns.set(sceneId, now);
+        log(`✓ Cooldown started for scene ${sceneId}`);
+      }
+
+      shouldShowPrompt(sceneId) {
+        if (!sceneId) return true;
+        
+        const cooldownStart = this.promptCooldowns.get(sceneId);
+        
+        // No cooldown active - show prompt
+        if (!cooldownStart) {
+          log(`? No cooldown for ${sceneId} - WILL PROMPT`);
+          return true;
+        }
+        
+        const now = Date.now();
+        const elapsed = now - cooldownStart;
+        
+        // Cooldown expired - show prompt
+        if (elapsed >= this.COOLDOWN_DURATION) {
+          this.promptCooldowns.delete(sceneId);
+          log(`⏱ Cooldown expired for ${sceneId} - WILL PROMPT`);
+          return true;
+        }
+        
+        // Still in cooldown - don't show prompt
+        const remaining = Math.ceil((this.COOLDOWN_DURATION - elapsed) / 1000);
+        log(`⏸ Cooldown active for ${sceneId}: ${remaining}s remaining - WILL NOT PROMPT`);
+        return false;
+      }
+
+      clearCooldown(sceneId) {
+        if (!sceneId) return;
+        this.promptCooldowns.delete(sceneId);
+        log(`🗑️ Cooldown cleared for ${sceneId}`);
+      }
+
+      clearAllCooldowns() {
+        this.promptCooldowns.clear();
+        log('🗑️ All cooldowns cleared');
+      }
+    }
+
+    function log(message) {
+      const logDiv = document.getElementById('log');
+      const time = new Date().toLocaleTimeString();
+      logDiv.innerHTML += `[${time}] ${message}\n`;
+      logDiv.scrollTop = logDiv.scrollHeight;
+    }
+
+    function addResult(testName, passed, message) {
+      const resultsDiv = document.getElementById('results');
+      const resultDiv = document.createElement('div');
+      resultDiv.className = `test-result ${passed ? 'pass' : 'fail'}`;
+      resultDiv.innerHTML = `
+        <strong>${passed ? '✓ PASS' : '✗ FAIL'}</strong>: ${testName}<br>
+        ${message}
+      `;
+      resultsDiv.appendChild(resultDiv);
+    }
+
+    function addInfo(message) {
+      const resultsDiv = document.getElementById('results');
+      const resultDiv = document.createElement('div');
+      resultDiv.className = 'test-result info';
+      resultDiv.innerHTML = `ℹ️ ${message}`;
+      resultsDiv.appendChild(resultDiv);
+    }
+
+    window.clearResults = function() {
+      document.getElementById('results').innerHTML = '';
+      document.getElementById('log').innerHTML = '';
+    };
+
+    async function sleep(ms) {
+      return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // TEST 1: Basic cooldown functionality
+    async function testBasicCooldown() {
+      addInfo('<h3>Test 1: Basic Cooldown</h3>');
+      const system = new CooldownSystem();
+      
+      // Should prompt (no cooldown)
+      const shouldPrompt1 = system.shouldShowPrompt('scene1');
+      addResult('Initial prompt', shouldPrompt1 === true, 
+        `Expected: true, Got: ${shouldPrompt1}`);
+      
+      // Start cooldown
+      system.startCooldown('scene1');
+      
+      // Should NOT prompt (cooldown active)
+      const shouldPrompt2 = system.shouldShowPrompt('scene1');
+      addResult('During cooldown', shouldPrompt2 === false, 
+        `Expected: false, Got: ${shouldPrompt2}`);
+      
+      return system;
+    }
+
+    // TEST 2: Per-scene tracking
+    async function testPerSceneTracking() {
+      addInfo('<h3>Test 2: Per-Scene Tracking</h3>');
+      const system = new CooldownSystem();
+      
+      // Scene 1: set cooldown
+      system.startCooldown('scene1');
+      
+      // Scene 1: should NOT prompt
+      const scene1Result = system.shouldShowPrompt('scene1');
+      addResult('Scene 1 with cooldown', scene1Result === false, 
+        `Expected: false, Got: ${scene1Result}`);
+      
+      // Scene 2: SHOULD prompt (different scene)
+      const scene2Result = system.shouldShowPrompt('scene2');
+      addResult('Scene 2 without cooldown', scene2Result === true, 
+        `Expected: true, Got: ${scene2Result}`);
+      
+      // ⚠️ THIS IS THE BUG!
+      addInfo('🐛 <strong>BUG IDENTIFIED:</strong> Each scene has independent cooldown. User gets prompted for every NEW scene they visit!');
+      
+      return system;
+    }
+
+    // TEST 3: Scrubbing scenario (the user's complaint)
+    async function testScrubbingScenario() {
+      addInfo('<h3>Test 3: Scene Scrubbing (User Experience)</h3>');
+      const system = new CooldownSystem();
+      
+      // User is on Scene 1, navigates to Scene 2
+      log('📍 User on Scene 1, navigating to Scene 2...');
+      system.startCooldown('scene1');
+      
+      // User on Scene 2, navigates to Scene 3
+      log('📍 User on Scene 2, navigating to Scene 3...');
+      const shouldPromptScene2 = system.shouldShowPrompt('scene2');
+      addResult('Prompt for Scene 2', shouldPromptScene2 === true, 
+        `Expected: false (global cooldown), Got: ${shouldPromptScene2} (per-scene cooldown)`);
+      
+      if (shouldPromptScene2) {
+        addInfo('❌ <strong>USER GETS PROMPTED AGAIN</strong> - This is annoying when scrubbing!');
+      }
+      
+      return system;
+    }
+
+    // TEST 4: What the user expects
+    async function testExpectedBehavior() {
+      addInfo('<h3>Test 4: Expected Behavior (Global Cooldown)</h3>');
+      addInfo('User expects: "I said Continue Without Completing ONCE, don\'t ask again for ANY scene for 60 seconds"');
+      addInfo('Current behavior: "Per-scene cooldown, so you get prompted once per scene"');
+      
+      addInfo('<strong>Solution:</strong> Need GLOBAL cooldown that applies to ALL scenes, not per-scene');
+    }
+
+    // TEST 5: Test with short cooldown for faster testing
+    async function testQuickCooldown() {
+      addInfo('<h3>Test 5: Quick Cooldown Expiry</h3>');
+      
+      class QuickCooldown extends CooldownSystem {
+        constructor() {
+          super();
+          this.COOLDOWN_DURATION = 2000; // 2 seconds for testing
+        }
+      }
+      
+      const system = new QuickCooldown();
+      
+      system.startCooldown('scene1');
+      const before = system.shouldShowPrompt('scene1');
+      
+      addInfo('Waiting 2.5 seconds for cooldown to expire...');
+      await sleep(2500);
+      
+      const after = system.shouldShowPrompt('scene1');
+      
+      addResult('Cooldown expires', before === false && after === true, 
+        `Before: ${before}, After: ${after}`);
+      
+      return system;
+    }
+
+    window.runAllTests = async function() {
+      clearResults();
+      log('🚀 Starting automated tests...\n');
+      
+      try {
+        await testBasicCooldown();
+        await testPerSceneTracking();
+        await testScrubbingScenario();
+        await testExpectedBehavior();
+        await testQuickCooldown();
+        
+        addInfo('<h3>📊 Test Summary</h3>');
+        addInfo('<strong>ROOT CAUSE:</strong> Cooldown is per-scene, not global. When user scrubs through multiple incomplete scenes, they get prompted once for each scene.');
+        addInfo('<strong>FIX NEEDED:</strong> Implement GLOBAL cooldown that suppresses prompts for ALL scenes after user clicks "Continue Without Completing"');
+        
+        log('\n✅ All tests completed!');
+      } catch (error) {
+        addResult('Test Suite', false, `Error: ${error.message}`);
+        log(`❌ Error: ${error.message}`);
+      }
+    };
+
+    // Auto-run on load
+    log('Test environment ready. Click "Run All Tests" to start.\n');
+  </script>
+</body>
+</html>
