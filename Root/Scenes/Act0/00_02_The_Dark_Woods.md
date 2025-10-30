@@ -20,13 +20,13 @@ The trees here are giants, towering far above, making you feel impossibly small.
 
 The forest floor is carpeted in pine needles that muffle your pawsteps—both blessing and curse. You move silently, but so does everything else. Every snap of twig or rustle of leaf echoes strangely, as if the woods themselves are listening. The usual forest sounds (birds, insects, small prey animals) are *wrong*—too quiet, too careful, as if everything here knows a larger predator is watching.
 
-Sappho pads beside you, her usual bravado tempered by unease. Her ears swivel constantly, tracking sounds you can't quite hear. "The Slynx don't take kindly to trespassers," she murmurs, voice low. "Especially not dogs. These woods have been their territory for generations, and they've kept it that way with wards and warnings."
+Sappho pads beside you, her usual bravado tempered by unease. Her ears swivel constantly, tracking sounds you can't quite hear. "The Lynx don't take kindly to trespassers," she murmurs, voice low. "Especially not dogs. These woods have been their territory for generations, and they've kept it that way with wards and warnings."
 
 Ahead, the path—if it can even be called that—leads deeper into darkness. But before you can take more than a few steps, you hear it: a low, resonant growl that seems to come from everywhere and nowhere at once. Then, movement.
 
-A massive lynx emerges from between the trees, stepping into what little light filters through the canopy. This is Big Lynx, elder of the Slynx clan, and their size and bearing make it clear why they hold that title. They're *enormous*—easily three times your size, maybe four. Their paws are as big as your head. Their coat is thick and silvered with age, tufted ears standing tall like antenna, eyes like pale amber coins that fix on your group with an intensity that feels like physical weight. You can smell them from here: wild musk, pine sap, old blood, and underneath it, a scent of *age*—of a creature that has lived many seasons and survived them all. They move with deliberate slowness, each pawstep placed with absolute certainty, blocking the path forward. The ground vibrates slightly when their paws land.
+A massive lynx emerges from between the trees, stepping into what little light filters through the canopy. This is Big Lynx, elder of the Lynx clan, and their size and bearing make it clear why they hold that title. They're *enormous*—easily three times your size, maybe four. Their paws are as big as your head. Their coat is thick and silvered with age, tufted ears standing tall like antenna, eyes like pale amber coins that fix on your group with an intensity that feels like physical weight. You can smell them from here: wild musk, pine sap, old blood, and underneath it, a scent of *age*—of a creature that has lived many seasons and survived them all. They move with deliberate slowness, each pawstep placed with absolute certainty, blocking the path forward. The ground vibrates slightly when their paws land.
 
-"Cats of Silverfield," Big Lynx's voice is a low rumble, formal and edged with suspicion. "And... a dog." Their gaze locks onto Sappho, who lowers her head respectfully but doesn't break eye contact. "You stand at the threshold of the Darkwoods. This is Slynx land, protected by ancient compact and older magic. State your business, quickly and truthfully. We have little patience for outsiders, and none at all for those who bring the stink of human-touched shores and sea-spray into our sacred groves."
+"Cats of Silverfield," Big Lynx's voice is a low rumble, formal and edged with suspicion. "And... a dog." Their gaze locks onto Sappho, who lowers her head respectfully but doesn't break eye contact. "You stand at the threshold of the Darkwoods. This is Lynx land, protected by ancient compact and older magic. State your business, quickly and truthfully. We have little patience for outsiders, and none at all for those who bring the stink of human-touched shores and sea-spray into our sacred groves."
 
 Behind Big Lynx, you catch a glimpse of another figure—younger, sleeker, with a coat that seems to shimmer between patterns in the dappled light. Jewels, perhaps? The younger lynx watches with open curiosity, though they say nothing, deferring to their elder.
 
@@ -68,7 +68,7 @@ Beneath the pine and moss, beneath even the musk of lynx territory, there's some
 *   Tree-Choppers Aren't Welcome
 
 **Key NPCs:**
-*   **Big Lynx (BL):** A territorial and suspicious elder of the Slynx clan.
+*   **Big Lynx (BL):** A territorial and suspicious elder of the Lynx clan.
 *   **Jewels:** A young, curious, and more open-minded lynx.
 
 **Potential Outcomes:**

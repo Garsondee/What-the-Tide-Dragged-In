@@ -1,4 +1,4 @@
-# Act 2, Scene 3: The Hydrant Havoc
+# Act 2, Scene 2: The Hydrant Havoc
 
 **Central Question:** Can the players resolve the turf war erupting between the water-loving dogs and water-hating cats after every fire hydrant on a street opens simultaneously?
 

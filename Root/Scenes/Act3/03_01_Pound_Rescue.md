@@ -42,12 +42,12 @@ The air is wrong here. Recycled, stale, too cold. And beneath everything, you ca
 This scene is the ideal place for Mystic Mogg to be separated from the group and replaced by Ra. Mogg might volunteer for a solo diversion or get cut off during the escape. When "Mogg" rejoins the party, it is secretly Ra in disguise.
 
 **Optional Objective: The Silver Tag**
-If the players understood the Slynx Shaman's warning, they have a secondary objective: infiltrate the main Animal Control office to steal a **specialized silver animal tag**. This is a high-risk detour.
+If the players understood the Lynx Shaman's warning, they have a secondary objective: infiltrate the main Animal Control office to steal a **specialized silver animal tag**. This is a high-risk detour.
 *   **The Office:** This area is brightly lit, likely occupied by a human, and breaking in requires a high degree of stealth or a very effective distraction.
 *   **The Reward:** If they succeed, they gain the aspect **Silver Anti-Shapeshifter Tag**, a powerful tool for the final confrontation.
 
 **Potential Outcomes:**
-*   **Success:** A stealthy infiltration, a loud distraction, or a full-on assault. Success means Sappho is freed, and the players recover **another piece of the Speaking Stone** she was guarding. If they attempted the optional objective, they may also escape with the silver tag.
+*   **Success:** A stealthy infiltration, a loud distraction, or a full-on assault. Success means Sappho is freed, and the players recover **another shell fragment of the Speaking Stone** she was guarding. She had hidden it in her collar when the shapeshifters ambushed them. If they attempted the optional objective, they may also escape with the silver tag.
 *   **Failure:** The rescue fails, and the players are forced to retreat. Failure during the optional objective will almost certainly alert all the Animal Control Officers, putting the main rescue in jeopardy.
 
 ## GM Guidance

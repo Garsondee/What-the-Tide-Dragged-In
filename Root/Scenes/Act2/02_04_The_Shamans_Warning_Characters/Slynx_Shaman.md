@@ -1,4 +1,4 @@
-# Slynx Shaman
+# Lynx Shaman
 
 **High Concept:** Shadow-Walker and Speaker of Omens
 

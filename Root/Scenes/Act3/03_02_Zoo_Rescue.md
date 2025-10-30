@@ -42,10 +42,15 @@ Somewhere in this chaos is Jewels. And somewhere, hidden among dozens of cats, a
 **GM Note (The Reveal):**
 When the players find Jewels, they also find the real, bound Mystic Mogg. This is the moment of the big reveal, where "Mogg" (Ra) can no longer maintain the deception.
 
+**GM Note (The Jade Heart Stone):**
+After the rescue and reveal, Jewels reaches into a hidden fold in her fur and produces something extraordinary—a green jade stone that glows with warm, verdant light. Unlike the white/silver shell fragments the PCs have been collecting, this stone is clearly special. It's carved with intricate glyphs: the word for "love" in both Dog-Conlang and Lynx-Conlang.
+
+"Sappho and I..." Jewels whispers, her voice thick with emotion, "we made a vow on this stone. It was to be our secret—a promise that our love could bridge any divide. But now..." She presses it into the players' paws. "Now it must save everyone. This is the heart. Without it, the Speaking Stone is just a shell. With it... everything changes."
+
 **Potential Outcomes:**
-*   **Success:** The players rescue Jewels and the real Mystic Mogg, leading to the dramatic reveal of Ra's deception. They secure **another piece of the Speaking Stone** that Jewels had hidden.
-*   **Success with a Cost:** They rescue Jewels, but the machinery causes significant damage, or an innocent animal is hurt, adding a complication to the final act.
-*   **Failure:** The players are forced to retreat, leaving Jewels behind for now. The shapeshifters have proven they can create chaos on a massive scale, raising the stakes for the final confrontation.
+*   **Success:** The players rescue Jewels and the real Mystic Mogg, leading to the dramatic reveal of Ra's deception. Jewels provides **the Jade Heart Stone**—the 12th and final piece needed to complete the Speaking Stone. With all 11 shell fragments and the heart now in their possession, the PCs can reforge the stone and restore communication.
+*   **Success with a Cost:** They rescue Jewels, but the machinery causes significant damage, or an innocent animal is hurt, adding a complication to the final act. Jewels still provides the Heart Stone, but the victory is bittersweet.
+*   **Failure:** The players are forced to retreat, leaving Jewels behind for now. The shapeshifters have proven they can create chaos on a massive scale, raising the stakes for the final confrontation. Without the Jade Heart Stone, the Speaking Stone cannot be completed—the shell may be whole, but it remains inert.
 
 ## GM Guidance
 - **Levers & Buttons**

@@ -1,4 +1,4 @@
-# Blissed-Out Slynx
+# Blissed-Out Lynx
 
 **High Concept:** Lynx Laid Low by Premium Catnip
 

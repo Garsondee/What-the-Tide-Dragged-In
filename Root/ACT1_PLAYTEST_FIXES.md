@@ -14,21 +14,21 @@ This document summarizes the changes made to Act 1 based on the playtest conduct
 
 **Solution:** Added a comprehensive opening that:
 - Connects from Act 0 (defeat of Wally, shapeshifter threat revealed)
-- Establishes the Feast of the Speaking Stone as an annual tradition
-- Explains the alliance between Cat Parliament, Sea Dogs, and Slynx clan
+- Establishes the Harvest Feast as an annual autumn celebration of bounty and the new alliance
+- Explains the alliance between Cat Parliament, Sea Dogs, and Lynx clan
 - Clarifies each faction's role in the heist
-- Explains Sappho and Jewels' romantic subplot and their reason for volunteering as getaway team
-- Emphasizes that the Speaking Stone enables inter-species communication
+- Establishes Sappho and Jewels as an unusually well-coordinated cross-species pair
+- Establishes universal communication as natural without revealing its magical source
 - Sets the stakes: cementing a fragile alliance through celebration
 
 **Key Quote:** 
-> "Thanks to its power, you can understand Sappho's barks and Jewels' lynx-speech as clearly as you understand your fellow cats. The alliance is fragile, yes, but tonight—with communication flowing and good food on the way—it feels like anything is possible."
+> "You can understand Sappho's barks and Jewels' lynx-speech as clearly as you understand your fellow cats. It's always been this way, for as long as anyone can remember. The alliance is fragile, yes, but tonight—with everyone working together and good food on the way—it feels like anything is possible."
 
-### **ADDED: Speaking Stone Magic Flows (Situation Aspect)**
+### **REMOVED: Premature Speaking Stone References**
 
-**Issue Addressed:** Ambiguity about whether inter-species communication works before the Stone breaks.
+**Issue Addressed:** The Speaking Stone should be a mystery—players don't know it exists until they discover it broken.
 
-**Solution:** Added explicit situation aspect "Speaking Stone Magic Flows (all species can communicate clearly)" to Scene 1 to eliminate any confusion.
+**Solution:** Removed all references to the Speaking Stone from player-facing content in Scene 1. Players simply accept that inter-species communication is normal, setting up the shock when it suddenly fails.
 
 ### **ENHANCED: Sappho & Jewels NPC Description**
 
@@ -38,8 +38,9 @@ This document summarizes the changes made to Act 1 based on the playtest conduct
 - They work efficiently together and are clearly in sync
 - Sappho uses her sea-dog strength for heavy lifting
 - Jewels uses her lynx agility for scouting and watching
-- They're professional but occasionally exchange loving glances
-- They have a legitimate reason to leave early (transporting the catch to feast site)
+- They communicate with subtle gestures and brief glances
+- They have a legitimate reason to transport catch to staging area
+- Other animals watch them with admiration and puzzlement at their coordination
 
 ---
 
@@ -190,7 +191,7 @@ Also added:
 
 Act 0 must clearly establish:
 - The Speaking Stone exists and enables inter-species communication
-- The Cat Parliament, Sea Dogs, and Slynx are tentatively working together
+- The Cat Parliament, Sea Dogs, and Lynx are tentatively working together
 - Shapeshifters (Mehitabel and Ra) are the real threat
 - The feast planning has been ongoing as a diplomatic gesture
 

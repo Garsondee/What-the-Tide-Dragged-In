@@ -1,4 +1,4 @@
-# Act 2, Scene 5: The Shaman's Warning
+# Act 2, Scene 4: The Shaman's Warning
 
 **GM Note:** This is a short, transitional scene that should occur after the players have decided to head to the Animal Control pound but before they arrive.
 
@@ -14,7 +14,7 @@ You're taking a shortcut through the edge of the woods when everything goes sudd
 
 The hair along your spine rises. The forest sounds—birds, insects, rustling leaves—all stop at once, like someone pressed pause on the world. Your whiskers twitch, sensing movement you can't quite see. The scent hits you a moment later: lynx. Wild, powerful, mixed with something herbal and old—sage smoke, crushed pine needles, earth magic.
 
-The Slynx Shaman materializes from the shadows between two birch trees. She moves without sound, her large paws leaving no trace on the leaf litter. Her eyes are ancient, amber, and far too knowing. The air around her feels *different*—charged, like just before a thunderstorm. Your fur stands on end involuntarily.
+The Lynx Shaman materializes from the shadows between two birch trees. She moves without sound, her large paws leaving no trace on the leaf litter. Her eyes are ancient, amber, and far too knowing. The air around her feels *different*—charged, like just before a thunderstorm. Your fur stands on end involuntarily.
 
 She looks at each of you in turn, her gaze heavy with meaning. When she speaks, her voice is low, resonant, pitched to carry through the incomprehensible barrier of Lynx-Conlang. The words are gibberish to you, but the urgency is unmistakable. She's trying to *warn* you of something.
 
@@ -30,10 +30,10 @@ Then, as quickly as she appeared, she melts back into the forest. The normal sou
 *   Wild Magic Lingers in the Air (herb smoke, ozone, ancient power)
 
 **Key NPCs:**
-*   **The Slynx Shaman:** Appearing suddenly from the shadows, looking grave.
+*   **The Lynx Shaman:** Appearing suddenly from the shadows, looking grave.
 
 **Linguistic Clues:**
-*   **Slynx Shaman (in Lynx-Conlang):** "Moon-metal binds the shifting skin. Cage of man holds cage of lies. Seek the silver... silence the change."
+*   **Lynx Shaman (in Lynx-Conlang):** "Moon-metal binds the shifting skin. Cage of man holds cage of lies. Seek the silver... silence the change."
 
 **Potential Outcomes:**
 *   **Success:** If the players have deciphered enough of the Lynx conlang, they understand the shaman's message: there is something made of silver ('moon-metal') in the Animal Control building ('cage of man') that can trap a shapeshifter ('binds the shifting skin'). This gives them a new, optional objective for the Pound Rescue.

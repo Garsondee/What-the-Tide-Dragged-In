@@ -8,7 +8,7 @@
 *   The Forest Whispers its Secrets to Me
 *   A Shadow in the Trees
 *   Curiosity May Be a Cat's Undoing
-*   A Love that Bridges the Divide
+*   A Bond that Bridges the Divide
 
 **Skills:**
 *   **Great (+4):** Stealth

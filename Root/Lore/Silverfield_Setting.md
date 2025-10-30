@@ -24,11 +24,11 @@ The harbor is contested territory. The **Salty Sea Dogs** (a clan of piratical, 
 ### The Darkwoods (or "The Ancient Woods")
 A primeval forest of towering pines and ancient oaks that rings the eastern edge of Silverfield. The Darkwoods are older than the town itself, and they *feel* it—the air is thick with old magic, the trees seem to listen, and the undergrowth shifts when you're not looking.
 
-This is **Slynx territory**, home to the spiritual lynx clan who serve as guardians of the forest. They maintain magical ward-stones at key boundaries, though these wards have been weakening in recent years. The woods are laced with game trails, hidden clearings, and sacred groves. Humans rarely venture deep into the Darkwoods; those who do often return with stories of strange lights, phantom music, and the sensation of being watched.
+This is **Lynx territory**, home to the spiritual lynx clan who serve as guardians of the forest. They maintain magical ward-stones at key boundaries, though these wards have been weakening in recent years. The woods are laced with game trails, hidden clearings, and sacred groves. Humans rarely venture deep into the Darkwoods; those who do often return with stories of strange lights, phantom music, and the sensation of being watched.
 
 Key features:
 - **The Ward-Stones:** Ancient carved stones arranged in circles, humming with protective magic.
-- **The Clearings:** Natural amphitheaters where the Slynx hold their rituals and councils.
+- **The Clearings:** Natural amphitheaters where the Lynx hold their rituals and councils.
 - **The Eastern Boundary:** Where the woods meet the old silver mine—a place of particular magical instability.
 
 ### The Abandoned Silver Mine
@@ -146,16 +146,16 @@ A clan of seafaring dogs who claim ancestral rights to the harbor. Piratical in 
 **Culture:** The Sea Dogs value bravery, loyalty, and a good story. They're boisterous, competitive, and prone to dramatics. They speak their own dialect—Dog-Conlang—which becomes crucial when the Speaking Stone is shattered.
 
 **Notable Member:**
-- **Sappho:** A golden Labrador with a piratical flair and a heart of gold. Sappho is courageous, loyal, and deeply in love with Jewels the lynx—a relationship that symbolizes the new alliance between species.
+- **Sappho:** A golden Labrador with a piratical flair and a heart of gold. Sappho is courageous, loyal, and has formed an unusually strong bond with Jewels the lynx—a partnership that symbolizes the potential of the new alliance between species.
 
-### The Slynx Clan
-The lynx guardians of the Darkwoods, practitioners of ancient warding magic and spiritual rituals. The Slynx are isolationist, formal, and deeply tied to the land.
+### The Lynx Clan
+The lynx guardians of the Darkwoods, practitioners of ancient warding magic and spiritual rituals. The Lynx are isolationist, formal, and deeply tied to the land.
 
-**Culture:** The Slynx value tradition, duty, and the preservation of sacred spaces. They're suspicious of outsiders—especially dogs and humans—but can be swayed by genuine need and respect for their ways. They speak Lynx-Conlang, a language rich in metaphor and ritual phrasing.
+**Culture:** The Lynx value tradition, duty, and the preservation of sacred spaces. They're suspicious of outsiders—especially dogs and humans—but can be swayed by genuine need and respect for their ways. They speak Lynx-Conlang, a language rich in metaphor and ritual phrasing.
 
 **Key Figures:**
 - **Big Lynx:** The territorial elder of the clan, proud and protective.
-- **Jewels:** A young, curious lynx who questions tradition and believes in unity. Jewels is in love with Sappho, and their relationship is a beacon of hope for inter-species cooperation.
+- **Jewels:** A young, curious lynx who questions tradition and believes in unity. Jewels has formed an unusually strong bond with Sappho, and their partnership is a beacon of hope for inter-species cooperation.
 
 ### The Seagull Mafia
 An organized gang of gulls who treat the harbor as their territory. Surprisingly cunning and utterly ruthless about food, the Seagull Mafia operates in coordinated flocks, conducting raids, intimidating rivals, and enforcing their will through sheer numbers.
@@ -188,14 +188,69 @@ Silverfield's rats fall into two broad categories:
 
 ## Magic & The Supernatural
 
-### The Speaking Stone
-A magical artifact of unknown origin, the Speaking Stone allows all animal species to understand each other's languages. It's unclear who created it or why, but it's been a cornerstone of inter-species cooperation in Silverfield.
+### The Speaking Stone (Ancient Secret)
+An ancient magical artifact created hundreds of years ago during the Viking age, the Speaking Stone has rested in a forgotten stone ring in the deep logging woods since the time when longboats first touched these shores. Its true purpose has been lost to the ages—most animals in Silverfield don't even know it exists. Those who remember the old stories speak of it only in whispers: standing stones that enabled understanding between all creatures.
 
-**Appearance:** A smooth, egg-shaped stone covered in glowing glyphs.
+**Appearance:** A smooth, egg-shaped stone covered in glowing glyphs, resting on an ancient pedestal at the center of a ring of standing stones. The stone consists of a white/silver shell with a green jade heart at its core.
 
-**Function:** Acts as a universal translator for animal speech. When intact, all animals within Silverfield can communicate across species barriers.
+**Structure:** 
+- **The Shell:** 11 interconnected pieces forming an egg shape, covered in ancient glyphs that glow with silver-white light
+- **The Heart:** A single piece of green jade at the core, inscribed with the word for "love" in multiple animal languages. The heart activates and powers the shell.
 
-**Weakness:** The Stone can be shattered, breaking into fragments that must be recovered and ritually reforged. When broken, each species reverts to speaking only its native tongue, causing immediate chaos and suspicion.
+**The Inscription (Rosetta Stone):**
+The Speaking Stone bears a prophecy written in three languages arranged in parallel: Common (Cat), Dog-Conlang, and Lynx-Conlang. The Dog and Lynx versions use simple substitutional cyphers, making the stone function as a Rosetta Stone that allows translation between languages.
+
+The inscription reads:
+
+> *By silver stream, this stone was cleaved,*  
+> *To save a people once aggrieved.*  
+> *Should it lie broken, words unspoken,*  
+> *A fight will start around this token.*  
+> *If jade heart finds final home,*  
+> *Then Lynx and Dogs will soon atone.*  
+> *A path to love can then be shown.*
+
+**Interpretation:**
+- "By silver stream" - The borderland streams where the stone was created during the Viking-age dog/lynx conflict
+- "This stone was cleaved" - The jade heart was intentionally separated from the shell as part of the peace ritual
+- "To save a people once aggrieved" - The aggrieved peoples were both the displaced Viking dogs and the invaded native lynx
+- "Words unspoken" - Without the stone, communication fails and species cannot understand each other
+- "A fight will start" - Breaking the stone recreates the ancient Viking-age war between dogs and lynx
+- "Jade heart finds final home" - The heart must return to the shell's center to restore communication
+- "Lynx and Dogs will soon atone" - The ancient enemies can reconcile, just as their ancestors did
+- "A path to love can then be shown" - Love (understanding, empathy, coexistence) enables peace across species boundaries
+
+**Function:** Acts as a universal translator for animal speech. When intact, all animals within Silverfield can communicate across species barriers—though few realize this ability comes from an external source rather than being natural. The jade heart at the center doesn't just translate—it illuminates consciousness, awakening sentience in creatures who hear its resonance.
+
+**Location:** Hidden deep in the old logging woods, in a grove that serves as a meeting place for Sappho and Jewels. The stone circle is old enough that its origins have faded into legend. The jade heart was removed and hidden by Jewels, who entrusted it to Sappho as a symbol of their bond.
+
+**Origin & History (Hidden Knowledge):**
+
+Hundreds of years ago, when Viking longboats first came to the coast of what would become Maine, they brought with them dogs—loyal companions and fierce guardians. These dogs established themselves in the coastal areas, while the native Lynx clan had long held dominion over the deep forests. The arrival of the dogs disrupted the ancient territorial balance.
+
+What began as border skirmishes escalated into a brutal conflict. The Lynx, masters of the woods, ambushed the dogs who strayed too far inland. The dogs, emboldened by their seafaring courage, raided lynx territories near the shore. Neither side could understand the other's language, turning every encounter into violence born of fear and miscommunication.
+
+The conflict might have ended in mutual destruction, but something miraculous happened. By the silver streams that ran through the contested borderlands, unknown hands (fey? ancient shamans? the land itself?) created the Speaking Stone—a magical artifact that enabled all creatures to understand one another. For the first time, dogs and lynx could communicate. They heard each other's fears, their territorial needs, their desire for peace.
+
+With understanding came negotiation. Territorial lines were drawn: the coast and harbor to the dogs, the deep woods to the lynx, and the borderlands shared. The Speaking Stone remained at the heart of the grove, a testament to peace through communication. The jade heart at its center was inscribed with the word that made peace possible: *love*—not romantic love, but the fundamental understanding that enables different peoples to coexist.
+
+Centuries passed. The Vikings departed. The dogs became the Salty Sea Dogs, with their piratical culture rooted in those ancient seafaring traditions. The Lynx remained in their woods, guardians of old magic. And the Speaking Stone continued its work so well that new generations forgot it existed. Universal communication became so natural that none questioned its source.
+
+By the present day, the stone ring in the logging woods is known only as "the old standing stones"—important, yes, sacred even, but *why* they matter has faded into legend. The Cat Parliament, relative newcomers who arrived with human settlers, knows the stones are significant but not their purpose. Only the very oldest stories hint at a time when dogs and lynx could not understand each other, and those stories sound like myths.
+
+**Knowledge (Lore Checks):**
+
+- **DC 3 (Average):** "There are old standing stones somewhere in the logging woods. The elder animals say they're important, but I don't know why. Something about the old days?"
+
+- **DC 5 (Fair):** "I've heard stories about standing stones in the deep woods that had something to do with communication between species. Supposedly, long ago, animals couldn't understand each other the way we do now. The stones fixed that somehow? But that doesn't make sense—we've always been able to talk to each other... haven't we?"
+
+- **DC 7 (Good):** "The very oldest tales speak of a time when dogs first came to these shores with the longboat people. They fought with the lynx over territory. The war was terrible—neither side could understand the other, so fear ruled. Then something magical happened in the borderlands. A stone was created that let everyone understand each other. After that, peace was possible. The dogs got the coast, the lynx kept the deep woods, and the fighting stopped."
+
+- **DC 9 (Great):** "The Speaking Stone. That's what it was called in the oldest stories. An egg-shaped artifact that translated all animal speech. It had a jade heart at its center, inscribed with an important word—though what word, the stories don't say. It was placed in a ring of standing stones in the logging woods, right at the border between dog and lynx territories. As long as it remained whole, all creatures could understand each other. The inscription on the stone was a prophecy and a warning: if the stone broke, communication would fail, and the old war would return."
+
+No living animal in Silverfield knows the complete truth or remembers where exactly the Speaking Stone is located. The grove has become just another clearing in the woods, significant only to those who use it as a meeting place. Until it shatters, and history threatens to repeat itself.
+
+**Weakness:** The Stone can be shattered, breaking the shell into 11 fragments that must be recovered and reassembled. When broken, each species reverts to speaking only its native tongue, causing immediate chaos and suspicion—and revealing to most animals for the first time that their ability to communicate was never natural. Even with all shell pieces recovered, the stone remains inert without the jade heart to activate it.
 
 ### Naming Magic
 A tradition rooted in fey lore: true names have power, and knowing a creature's name allows you to command, bind, or harm it. Naming magic is particularly effective against ghosts and spirits, who lack physical forms but are vulnerable to being named.
@@ -226,7 +281,7 @@ A phenomenon unique to Silverfield: thick, luminous fog that rolls in from the s
 - Strengthened connections to the past (ghosts become more active)
 
 ### Ward-Stones & Protective Magic
-The Slynx maintain ancient ward-stones throughout the Darkwoods, carved with spiraling glyphs that resonate with protective magic. These wards:
+The Lynx maintain ancient ward-stones throughout the Darkwoods, carved with spiraling glyphs that resonate with protective magic. These wards:
 - Keep intruders out
 - Contain dangerous entities within
 - Stabilize the barriers between worlds

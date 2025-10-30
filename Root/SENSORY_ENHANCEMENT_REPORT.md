@@ -193,7 +193,7 @@ All main scene files have been enhanced with **"From a Cat's Perspective"** sect
 - Air thick with green-brown cloud of powdered bliss
 - Tasting it on tongue (minty and bitter-sweet, wanting to purr)
 - Parliament elder rolling on back, paws batting at nothing
-- Slynx purring so loud you can hear from distance
+- Lynx purring so loud you can hear from distance
 - Humiliating public intoxication (humans filming)
 - Underneath catnip: faint chemical smell, wrong cat scent
 

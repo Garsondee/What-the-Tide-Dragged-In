@@ -1,4 +1,4 @@
-# Act 2, Scene 2: The Squeaky Sabotage
+# Act 2, Scene 1: The Squeaky Sabotage
 
 **Central Question:** Can the players contain the chaos after a delivery truck full of squeaky toys crashes, threatening to reveal the town's animal society to the humans?
 

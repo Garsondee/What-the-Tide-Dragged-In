@@ -8,15 +8,15 @@
 
 After the chaos of Wally's madness in the Darkwoods, the Cat Parliament convened an emergency session. The animals you rescued—dogs, lynx, and cats alike—had all fallen victim to the same enemy: shapeshifters working to destabilize Silverfield's fragile peace. In the aftermath, an idea took root: if the factions could work together against a common threat, perhaps they could work together for a common celebration.
 
-The annual Feast of the Speaking Stone was already planned—a tradition celebrating the magical artifact that allows all species to understand one another. But this year, the Parliament extended an invitation to the Sea Dogs and the Slynx clan to participate not just as guests, but as partners. Together, you would gather a bounty of fish and lobster from the harbor, then party into the night under the full moon, cementing this new alliance with food, drink, and revelry.
+The Harvest Feast was already planned—an annual autumn celebration where the animals gather to honor the season's bounty and give thanks for another year survived. But this year, the Parliament extended an invitation to the Sea Dogs and the Lynx clan to participate not just as guests, but as partners. Together, you would gather a bounty of fish and lobster from the harbor, then party into the night under the full moon, cementing this new alliance with food, drink, and revelry.
 
-The plans have been in motion for days. Everyone has a role. The Sea Dogs bring their knowledge of the tides and fishing boats. The Slynx provide their stealth and coordination. And the Cat Parliament—you—provide the muscle to defend the operation from the one faction guaranteed to object: the Seagull Mafia, who have claimed "ancestral rights" to the harbor's catch since time immemorial.
+The plans have been in motion for days. Everyone has a role. The Sea Dogs bring their knowledge of the tides and fishing boats. The Lynx provide their stealth and coordination. And the Cat Parliament—you—provide the muscle to defend the operation from the one faction guaranteed to object: the Seagull Mafia, who have claimed "ancestral rights" to the harbor's catch since time immemorial.
 
-You've been briefed on the plan. Sappho, the piratical Labrador, and Jewels, the spiritual lynx, will act as the getaway team—their job is to secure the best catches and transport them to the feast site. The rest of the allied dogs and lynx will assist with crowd control and logistics. Your job is simple: keep the gulls busy and off everyone's backs long enough for the operation to succeed.
+You've been briefed on the plan. Sappho, the piratical Labrador, and Jewels, the spiritual lynx, will act as the getaway team—their job is to secure the best catches and transport them to a secure staging area before the feast. The rest of the allied dogs and lynx will assist with crowd control and logistics. Your job is simple: keep the gulls busy and off everyone's backs long enough for the operation to succeed.
 
-What nobody mentions—but everyone knows—is that Sappho and Jewels have another reason for volunteering as the getaway team. The two have been conducting a secret romance, forbidden by the strict protocols of their respective clans. Tonight, with a legitimate excuse to slip away early with the "most important cargo," they plan to steal a few precious moments together at their secret trysting spot—a clearing in the woods where the Speaking Stone itself rests in its ancient cradle—before returning to the feast where diplomatic formality will force them to stay apart.
+What's unusual is how well Sappho and Jewels work together. Cross-species cooperation is still new and often awkward, but these two move like they've been partners for years. Some say they've been meeting in the old logging woods to practice coordination drills—something about wanting to set a good example for the alliance. Whatever the reason, they volunteered for this mission together, and no one questioned it. They're clearly the right choice.
 
-**The Speaking Stone**, that marvel of ancient magic, currently rests in its sacred grove. Thanks to its power, you can understand Sappho's barks and Jewels' lynx-speech as clearly as you understand your fellow cats. The alliance is fragile, yes, but tonight—with communication flowing and good food on the way—it feels like anything is possible.
+You can understand Sappho's barks and Jewels' lynx-speech as clearly as you understand your fellow cats. It's always been this way, for as long as anyone can remember. The alliance is fragile, yes, but tonight—with everyone working together and good food on the way—it feels like anything is possible.
 
 But first: the heist.
 
@@ -39,18 +39,17 @@ The wood under your paws is still warm from the day's sun, but cooling rapidly. 
 *   Moored Ships and Creaking Ropes
 *   Sunset
 *   Hungry, Hungry Seagulls
-*   Speaking Stone Magic Flows (all species can communicate clearly)
 *   Everything Here is Twice Our Height (the boats, crates, and humans loom like giants)
 *   A Symphony of Overwhelming Scents (fish, salt, dogs, lynx, humans, gulls—too much!)
 
 **Key NPCs:**
-*   **Sappho & Jewels:** The designated getaway team, eager to finish their task so they can sneak away to their secret meeting spot. They work efficiently together, clearly in sync. Sappho uses her powerful jaws and sea-dog strength to grab the heaviest crates while Jewels uses her lynx agility to scout routes and keep watch. They're professional during the heist but occasionally exchange loving glances when they think no one's watching.
-*   **Other Sea Dogs and Slynx:** Various members of the allied clans assisting with the operation, managing crowd control and logistics.
+*   **Sappho & Jewels:** The designated getaway team, remarkably coordinated for a cross-species pair. They work efficiently together, clearly in sync—Sappho uses her powerful jaws and sea-dog strength to grab the heaviest crates while Jewels uses her lynx agility to scout routes and keep watch. They communicate with subtle gestures and brief glances, moving like a well-oiled machine. Some of the other dogs and lynx watch them work with a mixture of admiration and puzzlement—how did they get so coordinated?
+*   **Other Sea Dogs and Lynx:** Various members of the allied clans assisting with the operation, managing crowd control and logistics.
 *   **Fisherfolk:** Busy, tired, and hostile to any animals near their catch.
 
 **Linguistic Clues:**
-*   **Sappho (in Dog-Conlang, to Jewels):** "Quickly, my love! To our secret spot!"
-*   **Jewels (in Lynx-Conlang, to Sappho):** "Patience, my sea-breeze. The feast first, then us."
+*   **Sappho (in Dog-Conlang, to Jewels):** "Quickly! To the staging point!"
+*   **Jewels (in Lynx-Conlang, to Sappho):** "Patience, partner. The mission first, then the woods."
 
 **Zones & Spatial Layout:**
 *   **Land (Harborfront):** Locals and tourists linger on benches and truck beds, fending gulls from paper-wrapped suppers.
@@ -76,7 +75,6 @@ The wood under your paws is still warm from the day's sun, but cooling rapidly. 
   - **Watchful Harbormaster** (Empathy/Notice): Will intervene if chaos spreads; use to escalate or to gain leverage with a bribe/appeal.
 
 - **Breadcrumbs to Pull**
-  - Seagulls chatter about "the breaking of the Voice-Stone" (foreshadows Scene 2 twist).
   - A gull drops a shiny wrench tag stamped with a foreign brand (ties to Hydrant Havoc).
 
 - **Fail Forward Options**

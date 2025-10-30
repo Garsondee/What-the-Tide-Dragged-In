@@ -6,7 +6,7 @@
 
 ## Read-Aloud: Opening
 
-Success! You've secured the catch—crates of fresh lobsters, claws snapping indignantly, seawater dripping between the slats. Sappho and Jewels slip away early with the choicest hauls, exchanging a private look before they disappear into the gathering twilight. "We'll take these to the feast site," Sappho calls back, her tail wagging. "You all did great!" The rest of the allied dogs and lynx mill about, helping to organize the remaining catch, everyone still chattering in the shared language the Speaking Stone provides.
+Success! You've secured the catch—crates of fresh lobsters, claws snapping indignantly, seawater dripping between the slats. Sappho and Jewels slip away early with the choicest hauls, exchanging a private look before they disappear into the gathering twilight. "We'll take these to the feast site," Sappho calls back, her tail wagging. "You all did great!" The rest of the allied dogs and lynx mill about, helping to organize the remaining catch, everyone still chattering together as the work winds down.
 
 But then the sky darkens—not with night, but with wings.
 
@@ -25,28 +25,28 @@ The lobsters are slippery—wet shells covered in seawater that soaks into your 
 *   Nowhere to Hide
 *   The Prize is Slippery! (Invoke to hamper carries; compel to drop a crate at an inopportune moment)
 
-**The Twist:** At the height of the battle with the gulls, you feel it—a sudden, visceral *wrongness* that ripples through the air like thunder without sound. The **Speaking Stone** has been shattered. Somewhere in the woods, far from your eyes, something terrible has happened.
+**The Twist:** At the height of the battle with the gulls, you feel it—a sudden, visceral *wrongness* that ripples through the air like thunder without sound. Somewhere in the woods, far from your eyes, something terrible has happened.
 
-The magical backlash *tastes* like copper and smells like ozone. Your inner ear goes sideways for a moment, and you have to dig your claws into the pier to keep from losing your balance. The vibration you've always felt from the Speaking Stone—that low, comforting hum you never consciously noticed until now—is suddenly, terribly *gone*. It's like losing a whisker you didn't know you had. The world feels... wrong. Incomplete.
+The magical backlash *tastes* like copper and smells like ozone. Your inner ear goes sideways for a moment, and you have to dig your claws into the pier to keep from losing your balance. There was a vibration—a low, comforting hum you never consciously noticed until now—and it's suddenly, terribly *gone*. It's like losing a whisker you didn't know you had. The world feels... wrong. Incomplete.
 
-A wave of magical energy washes over the docks. In an instant, all inter-species communication is severed. The barks of the Sea Dogs become incomprehensible noise. The yowls of the Slynx turn to gibberish. You can still understand your fellow House Cats perfectly, but everyone else? It's like a wall has slammed down between you.
+A wave of magical energy washes over the docks. In an instant, all inter-species communication is severed. The barks of the Sea Dogs become incomprehensible noise. The yowls of the Lynx turn to gibberish. You can still understand your fellow House Cats perfectly, but everyone else? It's like a wall has slammed down between you.
 
 Panic erupts. The other dogs and lynx involved in the heist fall into disarray, barking and yowling accusations at each other that neither side can understand. "Betrayal!" "Treachery!" They scatter in confusion and fear, the fragile alliance shattered as suddenly as the Stone itself.
 
-And Sappho and Jewels? They're gone. They left minutes ago with the catch, heading to the trysting spot near the Speaking Stone's grove. What happened to them?
+And Sappho and Jewels? They're gone. They left minutes ago with the catch, heading to the staging area near the old logging woods. What happened to them?
 
 **Linguistic Clues:**
 *   **A Confused Sea Dog (in incomprehensible Dog-Conlang):** "*Bark bark! Growl-woof bark?! BARK!*" (You can't understand it anymore, but the tone is clear: accusation and fear)
-*   **A Panicked Slynx (in incomprehensible Lynx-Conlang):** "*Yowl! Hiss-mrow-yowl!*" (Similarly incomprehensible, but the body language screams panic and rage)
+*   **A Panicked Lynx (in incomprehensible Lynx-Conlang):** "*Yowl! Hiss-mrow-yowl!*" (Similarly incomprehensible, but the body language screams panic and rage)
 
-**Note for GM:** Before the Stone breaks, all species can understand each other through its magic. After the break, House Cats can only understand other House Cats. Dog-Conlang and Lynx-Conlang become indecipherable noise. This creates immediate chaos as allies can no longer coordinate.
+**Note for GM:** Before this moment, all species could understand each other naturally. After the magical catastrophe, House Cats can only understand other House Cats. Dog-Conlang and Lynx-Conlang become indecipherable noise. The players don't yet know WHY this happened. This creates immediate chaos as allies can no longer coordinate.
 
 **Key NPCs:**
 *   **The Gull Mafia:** A relentless swarm of seagulls, working together with surprising cunning.
 
 **Potential Outcomes:**
-*   **Success:** The players fight off the gulls and manage to keep most of their catch. However, they're left bewildered by the magical catastrophe and the sudden breakdown of the alliance. Their allies scatter in confusion, and Sappho and Jewels have vanished—they were already gone when the Stone broke. Where are they? What happened?
-*   **Success with a Cost:** They save a lobster or two, but the gulls make off with the rest. They're left with only a token prize, the chaos of the shattered alliance, and the terrifying mystery of the Stone's destruction and their friends' disappearance.
+*   **Success:** The players fight off the gulls and manage to keep most of their catch. However, they're left bewildered by the magical catastrophe and the sudden breakdown of the alliance. Their allies scatter in confusion, and Sappho and Jewels have vanished—they were already gone when it happened. Where are they? What happened?
+*   **Success with a Cost:** They save a lobster or two, but the gulls make off with the rest. They're left with only a token prize, the chaos of the shattered alliance, and the terrifying mystery of what just happened and their friends' disappearance.
 *   **Failure:** The gulls overwhelm them and steal all the lobsters. The feast is ruined, the alliance is in tatters, and their friends have vanished without a trace. The players must piece together what happened from almost nothing.
 
 ## GM Guidance
@@ -55,15 +55,16 @@ And Sappho and Jewels? They're gone. They left minutes ago with the catch, headi
   - **Environmental Hazards:** Crafts to rig tarps, crates, and ropes; free invokes like "Snare Line" or "Tarp Collapse".
   - **Wrangle the Slippery Prize:** Overcome with Athletics/Physique to maintain grip on lobster crates during the chaos. The Prize is Slippery! can be compelled to force drops or invoked by gulls to snatch crates mid-carry.
   - **Rally Allies (Before the Break):** Rapport to pull bystanders or dogs/cats into aiding; on success add "Momentary Unity" boost. After the Stone breaks, this becomes much harder (increase difficulty by +2) as only House Cats can understand you.
-  - **Sense the Wrongness:** Lore/Notice to feel the Stone breaking—a DC 3 passive check. Success means the PC senses something terrible has happened in the direction of the grove, even before the communication fails.
+  - **Sense the Wrongness:** Lore/Notice to sense the magical disruption—a DC 3 passive check. Success means the PC senses something terrible has happened in the direction of the old logging woods, even before the communication fails.
+  - **Ancient Knowledge (Optional):** A PC with high Lore can make a DC 5 check to remember old stories about standing stones in the deep woods—ancient magical artifacts from before living memory. On success, they might vaguely recall that the stones had something to do with... communication? Understanding? The details are hazy, but this catastrophe feels connected.
 
 - **Hidden/Discoverable Aspects**
   - **Odd Feather Markings** (Investigate): Paint/scent markers suggest someone directed the gulls. This was a coordinated distraction.
-  - **Stone Resonance** (Lore, after the break): Detect lingering magic pointing toward the grove where the Stone rested. The direction of the magical shockwave.
-  - **Footprints Toward the Trysting Spot** (Notice): Sappho and Jewels' prints lead away from the docks toward the woods. Following them leads to the Speaking Stone's grove—and evidence of what happened.
+  - **Magical Resonance** (Lore, after the break): Detect lingering magic pointing toward the old logging woods. The direction of the magical shockwave.
+  - **Footprints Toward the Trysting Spot** (Notice): Sappho and Jewels' prints lead away from the docks toward the woods. Following them leads to an ancient grove—and evidence of what happened.
 
 - **Breadcrumbs to Pull**
-  - Shard of the Speaking Stone glows faintly when near other pieces (mechanical cue for later scenes).
+  - A glowing stone shard found near the grove pulses faintly when near other similar pieces (mechanical cue for later scenes).
   - A gull carries a ribbon with a zoo logo (points to Act 3 Scene 2).
 
 - **Fail Forward Options**

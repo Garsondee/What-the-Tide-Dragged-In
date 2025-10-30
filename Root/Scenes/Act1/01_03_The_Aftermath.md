@@ -1,0 +1,64 @@
+# Act 1, Scene 3: The Aftermath
+
+**Central Question:** What happened to Sappho and Jewels?
+
+---
+
+## Read-Aloud: Opening
+
+The ancient grove in the logging woods is in chaos.
+
+**From a Cat's Perspective:**
+
+The forest floor is soft under your paws—moss and pine needles that muffle sound but hold scent like a sponge. And there are *so many* scents here. Too many. Dog musk, lynx wildness, the copper tang of blood (both canine and feline—your nose knows the difference), and underneath it all, something *wrong*. A cat scent that doesn't quite match any cat you know. It makes your hackles rise instinctively.
+
+An ancient stone pedestal sits at the center of a ring of standing stones, its top empty. Shattered fragments of what was once a smooth, glowing stone lie scattered around it, glinting in the dappled sunlight. Even the *absence* of whatever was here feels loud—like a hole in the world where sound should be. The air tastes of old magic, metallic and sharp, making your tongue curl.
+
+Around you, dogs and lynx are arguing in their respective languages, and it's *maddening*. You can hear the fury in their voices, the accusation, the fear—but the words are just noise. Barks and yowls that mean nothing. A massive Sea Dog Captain stands nose-to-nose with a lean Lynx Shaman, both bristling, both ready to fight. The ground between them is torn up, claw marks and paw prints churning the earth into mud.
+
+The trail—Sappho and Jewels' scent, fading but still traceable—leads away toward town. But it's getting fainter with every passing moment. The morning dew is evaporating. Wind is picking up. If you're going to follow it, you need to move *now*.
+
+---
+
+**Situation Aspects:**
+*   A Broken Alliance
+*   Accusations Fly Like Gulls
+*   The Trail is Getting Cold
+*   Everything Smells Wrong (blood, fear, unfamiliar cat-scent, fading traces)
+*   An Ancient Mystery (shattered stone, old standing stones, lingering magic)
+
+**Key NPCs:**
+*   The leaders of the Sea Dog and Lynx clans, arriving to investigate.
+
+**Linguistic Clues:**
+*   **Sea Dog Captain (in Dog-Conlang):** "Lynx blood! I knew they were traitors!"
+*   **Lynx Shaman (in Lynx-Conlang):** "The scent of dog and betrayal hangs heavy here."
+
+**Potential Outcomes:**
+*   **Success:** The players investigate the ancient grove and discover the shattered stone. They find clear signs of a struggle, **the first glowing shell fragment** (a piece of white/silver stone that hums with faint magic), and tracks indicating their friends were overpowered and dragged away towards the town's Animal Control center. A DC 5 Lore check allows them to vaguely recall old stories about standing stones that enabled communication between species. The fragment seems to call out, as if seeking its lost siblings.
+*   **Success with a Cost:** They find the site, but the evidence is muddled. They know it was a fight, but they might mistakenly believe the Lynx or Sea Dogs were responsible, increasing tensions. The connection to the standing stones remains unclear, though they do recover one glowing fragment.
+*   **Failure:** The trail goes cold, and the players are left dealing with the angry and suspicious factions, forcing them to gather information through social conflict rather than investigation.
+
+## GM Guidance
+- **Levers & Buttons**
+  - **Forensic Sweep:** Investigate/Lore to reconstruct the scene; on success, place aspects like "Dragged Pawprints" or "Silver Scuff Marks" with free invokes.
+  - **Temper the Factions:** Rapport/Will to prevent immediate violence; Create Advantage "Tense Truce" for later scenes.
+  - **Track & Time:** Overcome with Notice/Athletics to follow a time-sensitive trail toward Animal Control.
+
+- **Hidden/Discoverable Aspects**
+  - **Ancient Standing Stones** (Lore DC 5): Vague memories of old stories—these stones were said to be magical, something to do with understanding between species. The details are lost to time, but this shattered centerpiece might have been the source of universal communication.
+  - **Silver Trace** (Lore): Minute flakes pointing to the anti-shifter tag.
+  - **Nonlocal Scent** (Notice): Feline odor that doesn't match known lynx/cats—points to shapeshifters.
+  - **Boot Tread Pattern** (Investigate): Matches Animal Control issue boots.
+
+- **Breadcrumbs to Pull**
+  - Half-buried flyer with zoo logo and date (ties to Act 3 Scene 2 timing).
+  - A torn kennel tag with initials "AC" (Animal Control).
+
+- **Fail Forward Options**
+  - Misinterpretation fuels a social clock: "Faction Hostilities" advancing unless managed.
+  - Trail fades, but a bystander offers a rumor that still directs them to Animal Control at a cost.
+
+- **Compels to Consider**
+  - PC Trouble about loyalty to side with their faction, risking a brawl.
+  - NPC leaders’ pride to demand concessions before sharing info.

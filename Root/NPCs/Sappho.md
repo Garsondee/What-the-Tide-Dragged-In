@@ -8,7 +8,7 @@
 *   A Nose for Trouble (and Treats)
 *   Loyal to a Fault
 *   Sea Legs on any Surface
-*   A Love that Bridges the Divide
+*   A Bond that Bridges the Divide
 
 **Skills:**
 *   **Great (+4):** Physique

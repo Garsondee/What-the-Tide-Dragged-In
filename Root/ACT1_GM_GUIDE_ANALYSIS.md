@@ -27,10 +27,10 @@ This report evaluates how well the Act 1 scenes align with the principles outlin
 - **Scene Implementation:** The scene immediately puts players in the middle of a heist operation with clear stakes, roles, and opposition (Seagull Mafia).
 - **Assessment:** Excellent. The opening drops players directly into action.
 
-#### **2. Heartwarming Romance Subplot**
+#### **2. Heartwarming Cross-Species Partnership**
 - **Guide Principle:** "Inject Heartwarming Moments: The core of this world is the cats' duty to protect their humans."
-- **Scene Implementation:** Sappho and Jewels' forbidden romance provides emotional investment. The description of them "occasionally exchange loving glances when they think no one's watching" hits the "aww" factor.
-- **Assessment:** Strong. While not about protecting humans specifically, the star-crossed lovers angle provides heartwarming content.
+- **Scene Implementation:** Sappho and Jewels' unusually strong partnership provides emotional investment. The description of them working "like a well-oiled machine" with "subtle gestures and brief glances" creates intrigue and sets up a mystery about their bond.
+- **Assessment:** Strong. While not about protecting humans specifically, the cross-species cooperation angle provides heartwarming content and foreshadows the later reveal of their relationship.
 
 #### **3. Clear NPC Personalities**
 - **Guide Principle:** "Give your NPCs distinct personalities and voices."
@@ -263,7 +263,7 @@ This report evaluates how well the Act 1 scenes align with the principles outlin
 **Missing Opportunities:**
 - Cats grooming each other before/after the heist
 - A dog offering a cat a ride on their back
-- Jewels teaching a cat a Slynx greeting gesture
+- Jewels teaching a cat a Lynx greeting gesture
 - A cat kneading biscuits nervously while planning
 - Sappho play-bowing to a cat to break the ice
 - Post-heist victory purring that's so loud it drowns out conversation

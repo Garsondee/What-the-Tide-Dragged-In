@@ -13,7 +13,7 @@
 *   **The United Army:** A massive force of cats, dogs, lynx, and enraged zoo animals (represented as a single group with a high skill for overcoming obstacles).
 
 **Potential Outcomes:**
-*   **Success:** The shapeshifters are overwhelmed by the sheer numbers and righteous fury of the united army. They are captured, not killed, and taken away to face justice. Upon their defeat, the players recover **all remaining fragments of the Speaking Stone** from them. The alliance is solidified, and the players are hailed as heroes.
+*   **Success:** The shapeshifters are overwhelmed by the sheer numbers and righteous fury of the united army. They are captured, not killed, and taken away to face justice. Upon their defeat, the players recover **any remaining shell fragments of the Speaking Stone** from them (the shapeshifters had been keeping these as "insurance"). With all 11 shell fragments now gathered and the jade heart stone from Jewels, the Speaking Stone can be fully restored. The alliance is solidified, and the players are hailed as heroes.
 *   **Success with a Cost:** The shapeshifters are captured, but not before one of them lands a significant blow on a key NPC, or reveals a disturbing piece of information about a new threat on the horizon, leaving a hook for the next adventure.
 
 **GM Note (The Silver Tag):**

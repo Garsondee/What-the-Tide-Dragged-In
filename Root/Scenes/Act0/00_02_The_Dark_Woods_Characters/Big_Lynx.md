@@ -1,12 +1,12 @@
-# Big Lynx (Elder of the Slynx)
+# Big Lynx (Elder of the Lynx)
 
-**High Concept:** Territorial Elder of the Slynx Clan
+**High Concept:** Territorial Elder of the Lynx Clan
 
 **Trouble:** "Outsiders Bring Only Trouble"
 
 **Other Aspects:**
 - Keeper of Ancient Boundaries
-- Pride of the Slynx
+- Pride of the Lynx
 - Watches the Dogs with Narrowed Eyes
 
 ## Role in the Story
